@@ -1,0 +1,1163 @@
+{
+  "config": "{\"version\":\"5.47\",\"themeCollection\":{\"baseTheme\":{\"name\":\"CY23SU08\",\"version\":\"5.48\",\"type\":2}},\"activeSectionIndex\":0,\"bookmarks\":[{\"displayName\":\"home\",\"name\":\"Bookmark91c859bb2db21a193c58\",\"explorationState\":{\"version\":\"1.3\",\"activeSection\":\"ReportSectiond0ac89d66c0678abd570\",\"sections\":{\"ReportSectiond0ac89d66c0678abd570\":{\"visualContainers\":{\"e9b4ed3a70a7464c863d\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"b19978c99d703623c679\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"7c296bb5a4a63b58c96d\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"273d34a666dbdc856b87\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"7e81747830479c1c3c38\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"0837a6d9d6be1b50994a\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"6081d362a0a9a8d0d938\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"c72a552d13a3e6e440b5\":{\"singleVisual\":{\"visualType\":\"image\",\"objects\":{}}},\"ab095a19c60612304c30\":{\"filters\":{\"byExpr\":[{\"type\":\"Advanced\",\"expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Total Employees\"}},\"howCreated\":0}]},\"singleVisual\":{\"visualType\":\"card\",\"objects\":{},\"orderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Total Employees\"}}}]}},\"aee3e5d9c1e0b2000478\":{\"filters\":{\"byExpr\":[{\"type\":\"Advanced\",\"expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Total Attrition\"}},\"howCreated\":0},{\"type\":\"Categorical\",\"expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"HR-Employee-Attrition\"}},\"Property\":\"Working Years Category\"}},\"howCreated\":0}]},\"singleVisual\":{\"visualType\":\"barChart\",\"objects\":{},\"orderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Total Attrition\"}}}],\"activeProjections\":{\"Category\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"HR-Employee-Attrition\"}},\"Property\":\"Working Years Category\"}}]}}},\"4e1bb5c0073b64b1c028\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"0ef8816cc7be43e0e552\":{\"filters\":{\"byExpr\":[{\"type\":\"Categorical\",\"expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"HR-Employee-Attrition\"}},\"Property\":\"Distance Category\"}},\"howCreated\":0},{\"type\":\"Advanced\",\"expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Total Attrition\"}},\"howCreated\":0}]},\"singleVisual\":{\"visualType\":\"donutChart\",\"objects\":{},\"orderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Total Attrition\"}}}],\"activeProjections\":{\"Category\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"HR-Employee-Attrition\"}},\"Property\":\"Distance Category\"}}]}}},\"d90aa17926191e165b79\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"92f4cb9f0a85b3130b77\":{\"filters\":{\"byExpr\":[{\"type\":\"Advanced\",\"expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Total Attrition\"}},\"howCreated\":0},{\"type\":\"Categorical\",\"expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"HR-Employee-Attrition\"}},\"Property\":\"Job Satisfaction Status\"}},\"howCreated\":0}]},\"singleVisual\":{\"visualType\":\"columnChart\",\"objects\":{},\"orderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Total Attrition\"}}}],\"activeProjections\":{\"Category\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"HR-Employee-Attrition\"}},\"Property\":\"Job Satisfaction Status\"}}]}}},\"6b766d7781c464cbbe8c\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"dd721f99ad0455b740c8\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"2b7c307a63900415ddee\":{\"filters\":{\"byExpr\":[{\"type\":\"Advanced\",\"expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Attrition Rate\"}},\"howCreated\":0}]},\"singleVisual\":{\"visualType\":\"card\",\"objects\":{},\"orderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Attrition Rate\"}}}]}},\"b58a6175287c4c01e71a\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"394647133761d751d7a2\":{\"filters\":{\"byExpr\":[{\"type\":\"Advanced\",\"expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Research & Development Attrition\"}},\"howCreated\":0}]},\"singleVisual\":{\"visualType\":\"card\",\"objects\":{},\"orderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Research & Development Attrition\"}}}]}},\"92f7e107801b65a3d3b4\":{\"filters\":{\"byExpr\":[{\"type\":\"Advanced\",\"expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Sales Attrition\"}},\"howCreated\":0}]},\"singleVisual\":{\"visualType\":\"card\",\"objects\":{},\"orderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Sales Attrition\"}}}]}},\"53c155dadb1a200400d4\":{\"filters\":{\"byExpr\":[{\"type\":\"Advanced\",\"expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"HR Department Attrition\"}},\"howCreated\":0}]},\"singleVisual\":{\"visualType\":\"card\",\"objects\":{},\"orderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"HR Department Attrition\"}}}]}},\"5025b33063719335b6c1\":{\"filters\":{\"byExpr\":[{\"type\":\"Advanced\",\"expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Sales Attrition\"}},\"howCreated\":0},{\"type\":\"Advanced\",\"expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Remain Sales\"}},\"howCreated\":0}]},\"singleVisual\":{\"visualType\":\"donutChart\",\"objects\":{},\"orderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Sales Attrition\"}}}]}},\"f481f58aca92190017dc\":{\"filters\":{\"byExpr\":[{\"type\":\"Advanced\",\"expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Research & Development Attrition\"}},\"howCreated\":0},{\"type\":\"Advanced\",\"expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Remain R&D\"}},\"howCreated\":0}]},\"singleVisual\":{\"visualType\":\"donutChart\",\"objects\":{},\"orderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Research & Development Attrition\"}}}]}},\"754f6723129065903e09\":{\"filters\":{\"byExpr\":[{\"type\":\"Advanced\",\"expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"HR Department Attrition\"}},\"howCreated\":0},{\"type\":\"Advanced\",\"expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Remain HR\"}},\"howCreated\":0}]},\"singleVisual\":{\"visualType\":\"donutChart\",\"objects\":{},\"orderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"HR Department Attrition\"}}}]}},\"4b3f526ad00a6002962c\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"4697dc5d6c884aec8be1\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"04485cf2e80650887b3e\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"1a2773df605a0ab4b4a7\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"c45c13eb09009b690905\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"3853d43a35cbd0d26688\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"208a0a531aec10243b4d\":{\"filters\":{\"byExpr\":[{\"type\":\"Categorical\",\"expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"HR-Employee-Attrition\"}},\"Property\":\"Gender\"}},\"howCreated\":0},{\"type\":\"Advanced\",\"expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Total Attrition\"}},\"howCreated\":0}]},\"singleVisual\":{\"visualType\":\"donutChart\",\"objects\":{},\"orderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Total Attrition\"}}}],\"activeProjections\":{\"Category\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"HR-Employee-Attrition\"}},\"Property\":\"Gender\"}}]}}},\"4e855009dc309d5b7646\":{\"filters\":{\"byExpr\":[{\"type\":\"Categorical\",\"expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"HR-Employee-Attrition\"}},\"Property\":\"Gender\"}},\"howCreated\":0},{\"type\":\"Advanced\",\"expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Total Attrition\"}},\"howCreated\":0}]},\"singleVisual\":{\"visualType\":\"donutChart\",\"objects\":{},\"orderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Total Attrition\"}}}],\"activeProjections\":{\"Category\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"HR-Employee-Attrition\"}},\"Property\":\"Gender\"}}]}}},\"0603660ba740e8976b8a\":{\"filters\":{\"byExpr\":[{\"type\":\"Advanced\",\"expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"% male attrition\"}},\"howCreated\":0}]},\"singleVisual\":{\"visualType\":\"card\",\"objects\":{},\"orderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"% male attrition\"}}}]}},\"c4a1598bea967c08dc40\":{\"filters\":{\"byExpr\":[{\"type\":\"Advanced\",\"expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"% female attrition\"}},\"howCreated\":0}]},\"singleVisual\":{\"visualType\":\"card\",\"objects\":{},\"orderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"% female attrition\"}}}]}},\"85f2bc139c60dc89cde0\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"be8a3635a92cbec5caec\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"bbf2011f1348575ad907\":{\"filters\":{\"byExpr\":[{\"name\":\"Filter3f8ba8b694bd8a08b3e2\",\"type\":\"Categorical\",\"filter\":{\"Version\":2,\"From\":[{\"Name\":\"h\",\"Entity\":\"HR-Employee-Attrition\",\"Type\":0}],\"Where\":[{\"Condition\":{\"In\":{\"Expressions\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"h\"}},\"Property\":\"Gender\"}}],\"Values\":[[{\"Literal\":{\"Value\":\"'Male'\"}}]]}}}]},\"expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"HR-Employee-Attrition\"}},\"Property\":\"Gender\"}},\"howCreated\":1},{\"type\":\"Advanced\",\"expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Total Attrition\"}},\"howCreated\":0}]},\"singleVisual\":{\"visualType\":\"card\",\"objects\":{},\"orderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Total Attrition\"}}}]}},\"74627bd5c36a955030a8\":{\"filters\":{\"byExpr\":[{\"name\":\"Filter3f8ba8b694bd8a08b3e2\",\"type\":\"Categorical\",\"filter\":{\"Version\":2,\"From\":[{\"Name\":\"h\",\"Entity\":\"HR-Employee-Attrition\",\"Type\":0}],\"Where\":[{\"Condition\":{\"In\":{\"Expressions\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"h\"}},\"Property\":\"Gender\"}}],\"Values\":[[{\"Literal\":{\"Value\":\"'Female'\"}}]]}}}]},\"expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"HR-Employee-Attrition\"}},\"Property\":\"Gender\"}},\"howCreated\":1},{\"type\":\"Advanced\",\"expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Total Attrition\"}},\"howCreated\":0}]},\"singleVisual\":{\"visualType\":\"card\",\"objects\":{},\"orderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Total Attrition\"}}}]}}}}},\"objects\":{}},\"options\":{\"targetVisualNames\":[]}},{\"displayName\":\"with panel\",\"name\":\"Bookmark544a26ee50e06d958851\",\"explorationState\":{\"version\":\"1.3\",\"activeSection\":\"ReportSectiond0ac89d66c0678abd570\",\"sections\":{\"ReportSectiond0ac89d66c0678abd570\":{\"visualContainers\":{\"e9b4ed3a70a7464c863d\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"b19978c99d703623c679\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"7c296bb5a4a63b58c96d\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"273d34a666dbdc856b87\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"7e81747830479c1c3c38\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"0837a6d9d6be1b50994a\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"6081d362a0a9a8d0d938\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"c72a552d13a3e6e440b5\":{\"singleVisual\":{\"visualType\":\"image\",\"objects\":{}}},\"ab095a19c60612304c30\":{\"filters\":{\"byExpr\":[{\"type\":\"Advanced\",\"expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Total Employees\"}},\"howCreated\":0}]},\"singleVisual\":{\"visualType\":\"card\",\"objects\":{},\"orderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Total Employees\"}}}]}},\"aee3e5d9c1e0b2000478\":{\"filters\":{\"byExpr\":[{\"type\":\"Advanced\",\"expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Total Attrition\"}},\"howCreated\":0},{\"type\":\"Categorical\",\"expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"HR-Employee-Attrition\"}},\"Property\":\"Working Years Category\"}},\"howCreated\":0}]},\"singleVisual\":{\"visualType\":\"barChart\",\"objects\":{},\"orderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Total Attrition\"}}}],\"activeProjections\":{\"Category\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"HR-Employee-Attrition\"}},\"Property\":\"Working Years Category\"}}]}}},\"4e1bb5c0073b64b1c028\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"0ef8816cc7be43e0e552\":{\"filters\":{\"byExpr\":[{\"type\":\"Categorical\",\"expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"HR-Employee-Attrition\"}},\"Property\":\"Distance Category\"}},\"howCreated\":0},{\"type\":\"Advanced\",\"expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Total Attrition\"}},\"howCreated\":0}]},\"singleVisual\":{\"visualType\":\"donutChart\",\"objects\":{},\"orderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Total Attrition\"}}}],\"activeProjections\":{\"Category\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"HR-Employee-Attrition\"}},\"Property\":\"Distance Category\"}}]}}},\"d90aa17926191e165b79\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"92f4cb9f0a85b3130b77\":{\"filters\":{\"byExpr\":[{\"type\":\"Advanced\",\"expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Total Attrition\"}},\"howCreated\":0},{\"type\":\"Categorical\",\"expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"HR-Employee-Attrition\"}},\"Property\":\"Job Satisfaction Status\"}},\"howCreated\":0}]},\"singleVisual\":{\"visualType\":\"columnChart\",\"objects\":{},\"orderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Total Attrition\"}}}],\"activeProjections\":{\"Category\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"HR-Employee-Attrition\"}},\"Property\":\"Job Satisfaction Status\"}}]}}},\"6b766d7781c464cbbe8c\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"dd721f99ad0455b740c8\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"2b7c307a63900415ddee\":{\"filters\":{\"byExpr\":[{\"type\":\"Advanced\",\"expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Attrition Rate\"}},\"howCreated\":0}]},\"singleVisual\":{\"visualType\":\"card\",\"objects\":{},\"orderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Attrition Rate\"}}}]}},\"b58a6175287c4c01e71a\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"394647133761d751d7a2\":{\"filters\":{\"byExpr\":[{\"type\":\"Advanced\",\"expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Research & Development Attrition\"}},\"howCreated\":0}]},\"singleVisual\":{\"visualType\":\"card\",\"objects\":{},\"orderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Research & Development Attrition\"}}}]}},\"92f7e107801b65a3d3b4\":{\"filters\":{\"byExpr\":[{\"type\":\"Advanced\",\"expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Sales Attrition\"}},\"howCreated\":0}]},\"singleVisual\":{\"visualType\":\"card\",\"objects\":{},\"orderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Sales Attrition\"}}}]}},\"53c155dadb1a200400d4\":{\"filters\":{\"byExpr\":[{\"type\":\"Advanced\",\"expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"HR Department Attrition\"}},\"howCreated\":0}]},\"singleVisual\":{\"visualType\":\"card\",\"objects\":{},\"orderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"HR Department Attrition\"}}}]}},\"5025b33063719335b6c1\":{\"filters\":{\"byExpr\":[{\"type\":\"Advanced\",\"expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Sales Attrition\"}},\"howCreated\":0},{\"type\":\"Advanced\",\"expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Remain Sales\"}},\"howCreated\":0}]},\"singleVisual\":{\"visualType\":\"donutChart\",\"objects\":{},\"orderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Sales Attrition\"}}}]}},\"f481f58aca92190017dc\":{\"filters\":{\"byExpr\":[{\"type\":\"Advanced\",\"expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Research & Development Attrition\"}},\"howCreated\":0},{\"type\":\"Advanced\",\"expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Remain R&D\"}},\"howCreated\":0}]},\"singleVisual\":{\"visualType\":\"donutChart\",\"objects\":{},\"orderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Research & Development Attrition\"}}}]}},\"754f6723129065903e09\":{\"filters\":{\"byExpr\":[{\"type\":\"Advanced\",\"expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"HR Department Attrition\"}},\"howCreated\":0},{\"type\":\"Advanced\",\"expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Remain HR\"}},\"howCreated\":0}]},\"singleVisual\":{\"visualType\":\"donutChart\",\"objects\":{},\"orderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"HR Department Attrition\"}}}]}},\"4b3f526ad00a6002962c\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"4697dc5d6c884aec8be1\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"04485cf2e80650887b3e\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"1a2773df605a0ab4b4a7\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"c45c13eb09009b690905\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"3853d43a35cbd0d26688\":{\"singleVisual\":{\"visualType\":\"shape\",\"objects\":{}}},\"208a0a531aec10243b4d\":{\"filters\":{\"byExpr\":[{\"type\":\"Categorical\",\"expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"HR-Employee-Attrition\"}},\"Property\":\"Gender\"}},\"howCreated\":0},{\"type\":\"Advanced\",\"expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Total Attrition\"}},\"howCreated\":0}]},\"singleVisual\":{\"visualType\":\"donutChart\",\"objects\":{},\"orderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Total Attrition\"}}}],\"activeProjections\":{\"Category\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"HR-Employee-Attrition\"}},\"Property\":\"Gender\"}}]}}},\"4e855009dc309d5b7646\":{\"filters\":{\"byExpr\":[{\"type\":\"Categorical\",\"expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"HR-Employee-Attrition\"}},\"Property\":\"Gender\"}},\"howCreated\":0},{\"type\":\"Advanced\",\"expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Total Attrition\"}},\"howCreated\":0}]},\"singleVisual\":{\"visualType\":\"donutChart\",\"objects\":{},\"orderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Total Attrition\"}}}],\"activeProjections\":{\"Category\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"HR-Employee-Attrition\"}},\"Property\":\"Gender\"}}]}}},\"0603660ba740e8976b8a\":{\"filters\":{\"byExpr\":[{\"type\":\"Advanced\",\"expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"% male attrition\"}},\"howCreated\":0}]},\"singleVisual\":{\"visualType\":\"card\",\"objects\":{},\"orderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"% male attrition\"}}}]}},\"c4a1598bea967c08dc40\":{\"filters\":{\"byExpr\":[{\"type\":\"Advanced\",\"expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"% female attrition\"}},\"howCreated\":0}]},\"singleVisual\":{\"visualType\":\"card\",\"objects\":{},\"orderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"% female attrition\"}}}]}},\"85f2bc139c60dc89cde0\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"be8a3635a92cbec5caec\":{\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{}}},\"bbf2011f1348575ad907\":{\"filters\":{\"byExpr\":[{\"name\":\"Filter3f8ba8b694bd8a08b3e2\",\"type\":\"Categorical\",\"filter\":{\"Version\":2,\"From\":[{\"Name\":\"h\",\"Entity\":\"HR-Employee-Attrition\",\"Type\":0}],\"Where\":[{\"Condition\":{\"In\":{\"Expressions\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"h\"}},\"Property\":\"Gender\"}}],\"Values\":[[{\"Literal\":{\"Value\":\"'Male'\"}}]]}}}]},\"expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"HR-Employee-Attrition\"}},\"Property\":\"Gender\"}},\"howCreated\":1},{\"type\":\"Advanced\",\"expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Total Attrition\"}},\"howCreated\":0}]},\"singleVisual\":{\"visualType\":\"card\",\"objects\":{},\"orderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Total Attrition\"}}}]}},\"74627bd5c36a955030a8\":{\"filters\":{\"byExpr\":[{\"name\":\"Filter3f8ba8b694bd8a08b3e2\",\"type\":\"Categorical\",\"filter\":{\"Version\":2,\"From\":[{\"Name\":\"h\",\"Entity\":\"HR-Employee-Attrition\",\"Type\":0}],\"Where\":[{\"Condition\":{\"In\":{\"Expressions\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"h\"}},\"Property\":\"Gender\"}}],\"Values\":[[{\"Literal\":{\"Value\":\"'Female'\"}}]]}}}]},\"expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"HR-Employee-Attrition\"}},\"Property\":\"Gender\"}},\"howCreated\":1},{\"type\":\"Advanced\",\"expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Total Attrition\"}},\"howCreated\":0}]},\"singleVisual\":{\"visualType\":\"card\",\"objects\":{},\"orderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"Measure Table\"}},\"Property\":\"Total Attrition\"}}}]}}}}},\"objects\":{}},\"options\":{\"targetVisualNames\":[]}}],\"defaultDrillFilterOtherVisuals\":true,\"linguisticSchemaSyncVersion\":2,\"settings\":{\"useNewFilterPaneExperience\":true,\"allowChangeFilterTypes\":true,\"useStylableVisualContainerHeader\":true,\"queryLimitOption\":6,\"useEnhancedTooltips\":true,\"exportDataMode\":1,\"useDefaultAggregateDisplayName\":true},\"objects\":{\"section\":[{\"properties\":{\"verticalAlignment\":{\"expr\":{\"Literal\":{\"Value\":\"'Top'\"}}}}}]}}",
+  "layoutOptimization": 0,
+  "resourcePackages": [
+    {
+      "resourcePackage": {
+        "disabled": false,
+        "items": [
+          {
+            "name": "application21790524749782936.png",
+            "path": "application21790524749782936.png",
+            "type": 100
+          },
+          {
+            "name": "bullhorn18081293424000333.png",
+            "path": "bullhorn18081293424000333.png",
+            "type": 100
+          },
+          {
+            "name": "hr12070024354530573.png",
+            "path": "hr12070024354530573.png",
+            "type": 100
+          },
+          {
+            "name": "icons8-three-people-486545926821812535.png",
+            "path": "icons8-three-people-486545926821812535.png",
+            "type": 100
+          },
+          {
+            "name": "mechanics6613408887766674.png",
+            "path": "mechanics6613408887766674.png",
+            "type": 100
+          },
+          {
+            "name": "pbi_background4524074723590732.jpg",
+            "path": "pbi_background4524074723590732.jpg",
+            "type": 100
+          },
+          {
+            "name": "science7657301727120804.png",
+            "path": "science7657301727120804.png",
+            "type": 100
+          },
+          {
+            "name": "stethoscope27841395969899874.png",
+            "path": "stethoscope27841395969899874.png",
+            "type": 100
+          }
+        ],
+        "name": "RegisteredResources",
+        "type": 1
+      }
+    },
+    {
+      "resourcePackage": {
+        "disabled": false,
+        "items": [
+          {
+            "name": "CY23SU08",
+            "path": "BaseThemes/CY23SU08.json",
+            "type": 202
+          }
+        ],
+        "name": "SharedResources",
+        "type": 2
+      }
+    }
+  ],
+  "sections": [
+    {
+      "config": "{\"relationships\":[{\"source\":\"a9c5a690e495e9e9068b\",\"target\":\"365a67a3ec0b051c97c0\",\"type\":3},{\"source\":\"a9c5a690e495e9e9068b\",\"target\":\"2104b82636c9a91b9300\",\"type\":3},{\"source\":\"a9c5a690e495e9e9068b\",\"target\":\"277061980ba140ec7887\",\"type\":3},{\"source\":\"a9c5a690e495e9e9068b\",\"target\":\"06ebc7630d359070402c\",\"type\":3},{\"source\":\"a9c5a690e495e9e9068b\",\"target\":\"e40c3b93ea1855e28801\",\"type\":3},{\"source\":\"a9c5a690e495e9e9068b\",\"target\":\"8f38d67abe90d5900670\",\"type\":3}],\"objects\":{\"background\":[{\"properties\":{\"image\":{\"image\":{\"name\":{\"expr\":{\"Literal\":{\"Value\":\"'pbi background.jpg'\"}}},\"url\":{\"expr\":{\"ResourcePackageItem\":{\"PackageName\":\"RegisteredResources\",\"PackageType\":1,\"ItemName\":\"pbi_background4524074723590732.jpg\"}}},\"scaling\":{\"expr\":{\"Literal\":{\"Value\":\"'Normal'\"}}}}},\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"0D\"}}}}}],\"outspacePane\":[{\"properties\":{\"width\":{\"expr\":{\"Literal\":{\"Value\":\"201L\"}}}}}]}}",
+      "displayName": "Job Role Attrition",
+      "displayOption": 1,
+      "filters": "[]",
+      "height": 720.00,
+      "name": "ReportSectionb0e06e953d97871b50d0",
+      "ordinal": 1,
+      "visualContainers": [
+        {
+          "config": "{\"name\":\"017bff90338800659003\",\"layouts\":[{\"id\":0,\"position\":{\"x\":688,\"y\":64,\"z\":15000,\"width\":224.00000000000003,\"height\":64,\"tabOrder\":15000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Attrition By Job Role\",\"textStyle\":{\"fontFamily\":\"Arial Black\",\"fontSize\":\"14pt\",\"color\":\"#cccccc\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 64.00,
+          "width": 224.00,
+          "x": 688.00,
+          "y": 64.00,
+          "z": 15000.00
+        },
+        {
+          "config": "{\"name\":\"01e955fbb6826bc1b5b0\",\"layouts\":[{\"id\":0,\"position\":{\"x\":0,\"y\":95.99999999999994,\"z\":21001,\"width\":160,\"height\":64,\"tabOrder\":28000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Doctoral\",\"textStyle\":{\"fontFamily\":\"Arial Black\",\"fontSize\":\"14pt\",\"color\":\"#cccccc\"}}],\"horizontalTextAlignment\":\"center\"},{\"textRuns\":[{\"value\":\"Degree\",\"textStyle\":{\"fontFamily\":\"Arial Black\",\"fontSize\":\"14pt\",\"color\":\"#cccccc\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"915ef0622ba6a3660475\"}",
+          "filters": "[]",
+          "height": 64.00,
+          "width": 160.00,
+          "x": 0.00,
+          "y": 96.00,
+          "z": 21001.00
+        },
+        {
+          "config": "{\"name\":\"06ebc7630d359070402c\",\"layouts\":[{\"id\":0,\"position\":{\"x\":864,\"y\":402.74509803921586,\"z\":39000,\"width\":80,\"height\":80,\"tabOrder\":39000}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"Measure Table.Inactive Employees\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"m\",\"Entity\":\"Measure Table\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Inactive Employees\"},\"Name\":\"Measure Table.Inactive Employees\",\"NativeReferenceName\":\"Inactive Employees\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Inactive Employees\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"objects\":{\"labels\":[{\"properties\":{\"color\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}},\"fontSize\":{\"expr\":{\"Literal\":{\"Value\":\"20D\"}}},\"bold\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}},\"fontFamily\":{\"expr\":{\"Literal\":{\"Value\":\"'''Arial Black'''\"}}}}}],\"categoryLabels\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]},\"vcObjects\":{\"title\":[{\"properties\":{\"titleWrap\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}}],\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"0D\"}}}}}]}}}",
+          "filters": "[{\"name\":\"Filterc03b0ea546947c48400d\",\"expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"HR-Employee-Attrition\"}},\"Property\":\"EducationField\"}},\"filter\":{\"Version\":2,\"From\":[{\"Name\":\"h\",\"Entity\":\"HR-Employee-Attrition\",\"Type\":0}],\"Where\":[{\"Condition\":{\"In\":{\"Expressions\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"h\"}},\"Property\":\"EducationField\"}}],\"Values\":[[{\"Literal\":{\"Value\":\"'Human Resources'\"}}]]}}}]},\"type\":\"Categorical\",\"howCreated\":1,\"objects\":{}}]",
+          "height": 80.00,
+          "width": 80.00,
+          "x": 864.00,
+          "y": 402.75,
+          "z": 39000.00
+        },
+        {
+          "config": "{\"name\":\"0eb9a49e2b290311030a\",\"layouts\":[{\"id\":0,\"position\":{\"x\":976,\"y\":464,\"z\":22000,\"width\":80,\"height\":96,\"tabOrder\":22000}}],\"singleVisual\":{\"visualType\":\"image\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"imageUrl\":{\"expr\":{\"ResourcePackageItem\":{\"PackageName\":\"RegisteredResources\",\"PackageType\":1,\"ItemName\":\"mechanics6613408887766674.png\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 96.00,
+          "width": 80.00,
+          "x": 976.00,
+          "y": 464.00,
+          "z": 22000.00
+        },
+        {
+          "config": "{\"name\":\"1597b88160221e1e2e92\",\"layouts\":[{\"id\":0,\"position\":{\"height\":159.99999999999994,\"width\":160,\"x\":640,\"y\":448.00000000000006,\"z\":3000,\"tabOrder\":3000}}],\"singleVisualGroup\":{\"displayName\":\"Group 7\",\"groupMode\":0}}",
+          "height": 160.00,
+          "width": 160.00,
+          "x": 640.00,
+          "y": 448.00,
+          "z": 3000.00
+        },
+        {
+          "config": "{\"name\":\"160390aee1b9dc05691d\",\"layouts\":[{\"id\":0,\"position\":{\"x\":64,\"y\":0,\"z\":3000,\"width\":304,\"height\":80,\"tabOrder\":6000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"HR Attrition\",\"textStyle\":{\"fontWeight\":\"bold\",\"fontFamily\":\"Arial Black\",\"fontSize\":\"32pt\",\"color\":\"#000000\"}},{\"value\":\" \",\"textStyle\":{\"fontWeight\":\"bold\",\"fontFamily\":\"Arial Black\",\"fontSize\":\"32pt\"}}]}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"db2e3e6692b360cd377e\"}",
+          "filters": "[]",
+          "height": 80.00,
+          "width": 304.00,
+          "x": 64.00,
+          "y": 0.00,
+          "z": 3000.00
+        },
+        {
+          "config": "{\"name\":\"1b91e5900b0b051a1c27\",\"layouts\":[{\"id\":0,\"position\":{\"x\":0,\"y\":0,\"z\":18000,\"width\":144,\"height\":48,\"tabOrder\":1000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Technical \",\"textStyle\":{\"fontFamily\":\"Arial Black\",\"fontSize\":\"14pt\",\"color\":\"#cccccc\"}}],\"horizontalTextAlignment\":\"center\"},{\"textRuns\":[{\"value\":\"Degree\",\"textStyle\":{\"fontFamily\":\"Arial Black\",\"fontSize\":\"14pt\",\"color\":\"#cccccc\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"b9186139e8a454271555\"}",
+          "filters": "[]",
+          "height": 48.00,
+          "width": 144.00,
+          "x": 0.00,
+          "y": 0.00,
+          "z": 18000.00
+        },
+        {
+          "config": "{\"name\":\"1bff558209be4c13a48d\",\"layouts\":[{\"id\":0,\"position\":{\"x\":800.0000000000001,\"y\":576,\"z\":27000,\"width\":224.00000000000003,\"height\":64,\"tabOrder\":27000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Human\",\"textStyle\":{\"fontFamily\":\"Arial Black\",\"fontSize\":\"14pt\",\"color\":\"#cccccc\"}}],\"horizontalTextAlignment\":\"center\"},{\"textRuns\":[{\"value\":\"Resources\",\"textStyle\":{\"fontFamily\":\"Arial Black\",\"fontSize\":\"14pt\",\"color\":\"#cccccc\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 64.00,
+          "width": 224.00,
+          "x": 800.00,
+          "y": 576.00,
+          "z": 27000.00
+        },
+        {
+          "config": "{\"name\":\"2104b82636c9a91b9300\",\"layouts\":[{\"id\":0,\"position\":{\"x\":640,\"y\":402.74509803921586,\"z\":37000,\"width\":80,\"height\":80,\"tabOrder\":37000}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"Measure Table.Inactive Employees\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"m\",\"Entity\":\"Measure Table\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Inactive Employees\"},\"Name\":\"Measure Table.Inactive Employees\",\"NativeReferenceName\":\"Inactive Employees\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Inactive Employees\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"objects\":{\"labels\":[{\"properties\":{\"color\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}},\"fontSize\":{\"expr\":{\"Literal\":{\"Value\":\"20D\"}}},\"bold\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}},\"fontFamily\":{\"expr\":{\"Literal\":{\"Value\":\"'''Arial Black'''\"}}}}}],\"categoryLabels\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]},\"vcObjects\":{\"title\":[{\"properties\":{\"titleWrap\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}}],\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"0D\"}}}}}]}}}",
+          "filters": "[{\"name\":\"Filterc03b0ea546947c48400d\",\"expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"HR-Employee-Attrition\"}},\"Property\":\"EducationField\"}},\"filter\":{\"Version\":2,\"From\":[{\"Name\":\"h\",\"Entity\":\"HR-Employee-Attrition\",\"Type\":0}],\"Where\":[{\"Condition\":{\"In\":{\"Expressions\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"h\"}},\"Property\":\"EducationField\"}}],\"Values\":[[{\"Literal\":{\"Value\":\"'Life Sciences'\"}}]]}}}]},\"type\":\"Categorical\",\"howCreated\":1,\"objects\":{}}]",
+          "height": 80.00,
+          "width": 80.00,
+          "x": 640.00,
+          "y": 402.75,
+          "z": 37000.00
+        },
+        {
+          "config": "{\"name\":\"2325b90c95114820a856\",\"layouts\":[{\"id\":0,\"position\":{\"x\":480,\"y\":576,\"z\":24000,\"width\":176,\"height\":48,\"tabOrder\":24000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Marketing\",\"textStyle\":{\"fontFamily\":\"Arial Black\",\"fontSize\":\"14pt\",\"color\":\"#cccccc\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 48.00,
+          "width": 176.00,
+          "x": 480.00,
+          "y": 576.00,
+          "z": 24000.00
+        },
+        {
+          "config": "{\"name\":\"277061980ba140ec7887\",\"layouts\":[{\"id\":0,\"position\":{\"x\":736,\"y\":402.74509803921586,\"z\":38000,\"width\":80,\"height\":80,\"tabOrder\":38000}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"Measure Table.Inactive Employees\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"m\",\"Entity\":\"Measure Table\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Inactive Employees\"},\"Name\":\"Measure Table.Inactive Employees\",\"NativeReferenceName\":\"Inactive Employees\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Inactive Employees\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"objects\":{\"labels\":[{\"properties\":{\"color\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}},\"fontSize\":{\"expr\":{\"Literal\":{\"Value\":\"20D\"}}},\"bold\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}},\"fontFamily\":{\"expr\":{\"Literal\":{\"Value\":\"'''Arial Black'''\"}}}}}],\"categoryLabels\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]},\"vcObjects\":{\"title\":[{\"properties\":{\"titleWrap\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}}],\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"0D\"}}}}}]}}}",
+          "filters": "[{\"name\":\"Filterc03b0ea546947c48400d\",\"expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"HR-Employee-Attrition\"}},\"Property\":\"EducationField\"}},\"filter\":{\"Version\":2,\"From\":[{\"Name\":\"h\",\"Entity\":\"HR-Employee-Attrition\",\"Type\":0}],\"Where\":[{\"Condition\":{\"In\":{\"Expressions\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"h\"}},\"Property\":\"EducationField\"}}],\"Values\":[[{\"Literal\":{\"Value\":\"'Medical'\"}}]]}}}]},\"type\":\"Categorical\",\"howCreated\":1,\"objects\":{}}]",
+          "height": 80.00,
+          "width": 80.00,
+          "x": 736.00,
+          "y": 402.75,
+          "z": 38000.00
+        },
+        {
+          "config": "{\"name\":\"2bfe5880aa092c820ceb\",\"layouts\":[{\"id\":0,\"position\":{\"x\":880,\"y\":416,\"z\":33000,\"width\":48,\"height\":48,\"tabOrder\":33000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'oval'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":1,\"Percent\":0.1}}}}}},\"selector\":{\"id\":\"default\"}}]}}}",
+          "filters": "[]",
+          "height": 48.00,
+          "width": 48.00,
+          "x": 880.00,
+          "y": 416.00,
+          "z": 33000.00
+        },
+        {
+          "config": "{\"name\":\"32226e0d7b303545cc17\",\"layouts\":[{\"id\":0,\"position\":{\"x\":992,\"y\":416,\"z\":34000,\"width\":48,\"height\":48,\"tabOrder\":34000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'oval'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":1,\"Percent\":0.1}}}}}},\"selector\":{\"id\":\"default\"}}]}}}",
+          "filters": "[]",
+          "height": 48.00,
+          "width": 48.00,
+          "x": 992.00,
+          "y": 416.00,
+          "z": 34000.00
+        },
+        {
+          "config": "{\"name\":\"3360143d08b5198b1262\",\"layouts\":[{\"id\":0,\"position\":{\"x\":752.0000000000001,\"y\":464,\"z\":20000,\"width\":96,\"height\":80,\"tabOrder\":20000}}],\"singleVisual\":{\"visualType\":\"image\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"imageUrl\":{\"expr\":{\"ResourcePackageItem\":{\"PackageName\":\"RegisteredResources\",\"PackageType\":1,\"ItemName\":\"stethoscope27841395969899874.png\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 80.00,
+          "width": 96.00,
+          "x": 752.00,
+          "y": 464.00,
+          "z": 20000.00
+        },
+        {
+          "config": "{\"name\":\"35fd64b279100073b479\",\"layouts\":[{\"id\":0,\"position\":{\"x\":528,\"y\":464,\"z\":18000,\"width\":80,\"height\":96,\"tabOrder\":18000}}],\"singleVisual\":{\"visualType\":\"image\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"imageUrl\":{\"expr\":{\"ResourcePackageItem\":{\"PackageName\":\"RegisteredResources\",\"PackageType\":1,\"ItemName\":\"bullhorn18081293424000333.png\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 96.00,
+          "width": 80.00,
+          "x": 528.00,
+          "y": 464.00,
+          "z": 18000.00
+        },
+        {
+          "config": "{\"name\":\"365a67a3ec0b051c97c0\",\"layouts\":[{\"id\":0,\"position\":{\"x\":528,\"y\":402.74509803921586,\"z\":36000,\"width\":80,\"height\":80,\"tabOrder\":36000}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"Measure Table.Inactive Employees\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"m\",\"Entity\":\"Measure Table\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Inactive Employees\"},\"Name\":\"Measure Table.Inactive Employees\",\"NativeReferenceName\":\"Inactive Employees\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Inactive Employees\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"objects\":{\"labels\":[{\"properties\":{\"color\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}},\"fontSize\":{\"expr\":{\"Literal\":{\"Value\":\"20D\"}}},\"bold\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}},\"fontFamily\":{\"expr\":{\"Literal\":{\"Value\":\"'''Arial Black'''\"}}}}}],\"categoryLabels\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]},\"vcObjects\":{\"title\":[{\"properties\":{\"titleWrap\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}}],\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"0D\"}}}}}]}}}",
+          "filters": "[{\"name\":\"Filterc03b0ea546947c48400d\",\"expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"HR-Employee-Attrition\"}},\"Property\":\"EducationField\"}},\"filter\":{\"Version\":2,\"From\":[{\"Name\":\"h\",\"Entity\":\"HR-Employee-Attrition\",\"Type\":0}],\"Where\":[{\"Condition\":{\"In\":{\"Expressions\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"h\"}},\"Property\":\"EducationField\"}}],\"Values\":[[{\"Literal\":{\"Value\":\"'Marketing'\"}}]]}}}]},\"type\":\"Categorical\",\"howCreated\":1,\"objects\":{}}]",
+          "height": 80.00,
+          "width": 80.00,
+          "x": 528.00,
+          "y": 402.75,
+          "z": 36000.00
+        },
+        {
+          "config": "{\"name\":\"3b7a661d516440264aa5\",\"layouts\":[{\"id\":0,\"position\":{\"x\":496,\"y\":352,\"z\":11000,\"width\":736,\"height\":288,\"tabOrder\":11000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'rectangleRounded'\"}}},\"rectangleRoundedCurve\":{\"expr\":{\"Literal\":{\"Value\":\"5L\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":1,\"Percent\":0.1}}}}}},\"selector\":{\"id\":\"default\"}}]}}}",
+          "filters": "[]",
+          "height": 288.00,
+          "width": 736.00,
+          "x": 496.00,
+          "y": 352.00,
+          "z": 11000.00
+        },
+        {
+          "config": "{\"name\":\"3bac06a53c4751b2c557\",\"layouts\":[{\"id\":0,\"position\":{\"x\":32,\"y\":0,\"z\":14000,\"width\":100,\"height\":100,\"tabOrder\":15000}}],\"singleVisualGroup\":{\"displayName\":\"Group 3\",\"groupMode\":0},\"parentGroupName\":\"1597b88160221e1e2e92\"}",
+          "height": 100.00,
+          "width": 100.00,
+          "x": 32.00,
+          "y": 0.00,
+          "z": 14000.00
+        },
+        {
+          "config": "{\"name\":\"4c5ae4892dc9b082cb36\",\"layouts\":[{\"id\":0,\"position\":{\"x\":64,\"y\":64,\"z\":4000,\"width\":288,\"height\":80,\"tabOrder\":9000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Dashboard\",\"textStyle\":{\"fontWeight\":\"bold\",\"fontFamily\":\"Arial Black\",\"fontSize\":\"32pt\",\"color\":\"#000000\"}}]}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"db2e3e6692b360cd377e\"}",
+          "filters": "[]",
+          "height": 80.00,
+          "width": 288.00,
+          "x": 64.00,
+          "y": 64.00,
+          "z": 4000.00
+        },
+        {
+          "config": "{\"name\":\"4e2a18e1e01a8740a841\",\"layouts\":[{\"id\":0,\"position\":{\"x\":512,\"y\":448.00000000000006,\"z\":17000,\"width\":704,\"height\":128,\"tabOrder\":17000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'rectangleRounded'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":-0.5}}}}}},\"selector\":{\"id\":\"default\"}}]}}}",
+          "filters": "[]",
+          "height": 128.00,
+          "width": 704.00,
+          "x": 512.00,
+          "y": 448.00,
+          "z": 17000.00
+        },
+        {
+          "config": "{\"name\":\"55b752fc39bbdb205210\",\"layouts\":[{\"id\":0,\"position\":{\"x\":928,\"y\":576,\"z\":28000,\"width\":224.00000000000003,\"height\":64,\"tabOrder\":28000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Technical\",\"textStyle\":{\"fontFamily\":\"Arial Black\",\"fontSize\":\"14pt\",\"color\":\"#cccccc\"}}],\"horizontalTextAlignment\":\"center\"},{\"textRuns\":[{\"value\":\"Education\",\"textStyle\":{\"fontFamily\":\"Arial Black\",\"fontSize\":\"14pt\",\"color\":\"#cccccc\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 64.00,
+          "width": 224.00,
+          "x": 928.00,
+          "y": 576.00,
+          "z": 28000.00
+        },
+        {
+          "config": "{\"name\":\"5657b565c99c7140b023\",\"layouts\":[{\"id\":0,\"position\":{\"x\":1088,\"y\":464,\"z\":23000,\"width\":80,\"height\":80,\"tabOrder\":23000}}],\"singleVisual\":{\"visualType\":\"image\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"imageUrl\":{\"expr\":{\"ResourcePackageItem\":{\"PackageName\":\"RegisteredResources\",\"PackageType\":1,\"ItemName\":\"application21790524749782936.png\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 80.00,
+          "width": 80.00,
+          "x": 1088.00,
+          "y": 464.00,
+          "z": 23000.00
+        },
+        {
+          "config": "{\"name\":\"58dfe3d078de69835d89\",\"layouts\":[{\"id\":0,\"position\":{\"x\":0,\"y\":0,\"z\":8000,\"width\":96,\"height\":96,\"tabOrder\":8000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'oval'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":1,\"Percent\":0.2}}}}}},\"selector\":{\"id\":\"default\"}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]},\"vcObjects\":{\"title\":[{\"properties\":{\"titleWrap\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}}],\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"0D\"}}}}}],\"general\":[{\"properties\":{\"keepLayerOrder\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}}],\"visualHeader\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"d83b2a6106676a0399c5\"}",
+          "filters": "[]",
+          "height": 96.00,
+          "width": 96.00,
+          "x": 0.00,
+          "y": 0.00,
+          "z": 8000.00
+        },
+        {
+          "config": "{\"name\":\"63844697a482859609ac\",\"layouts\":[{\"id\":0,\"position\":{\"x\":640,\"y\":464,\"z\":19000,\"width\":80,\"height\":80,\"tabOrder\":19000}}],\"singleVisual\":{\"visualType\":\"image\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"imageUrl\":{\"expr\":{\"ResourcePackageItem\":{\"PackageName\":\"RegisteredResources\",\"PackageType\":1,\"ItemName\":\"science7657301727120804.png\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 80.00,
+          "width": 80.00,
+          "x": 640.00,
+          "y": 464.00,
+          "z": 19000.00
+        },
+        {
+          "config": "{\"name\":\"6c54c5c0051368d45294\",\"layouts\":[{\"id\":0,\"position\":{\"x\":496,\"y\":64,\"z\":2000,\"width\":736,\"height\":272,\"tabOrder\":2000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'rectangleRounded'\"}}},\"rectangleRoundedCurve\":{\"expr\":{\"Literal\":{\"Value\":\"5L\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":1,\"Percent\":0.1}}}}}},\"selector\":{\"id\":\"default\"}}]}}}",
+          "filters": "[]",
+          "height": 272.00,
+          "width": 736.00,
+          "x": 496.00,
+          "y": 64.00,
+          "z": 2000.00
+        },
+        {
+          "config": "{\"name\":\"6d568b208792a7884a00\",\"layouts\":[{\"id\":0,\"position\":{\"x\":688,\"y\":576,\"z\":26000,\"width\":240,\"height\":64,\"tabOrder\":26000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Medical\",\"textStyle\":{\"fontFamily\":\"Arial Black\",\"fontSize\":\"14pt\",\"color\":\"#cccccc\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 64.00,
+          "width": 240.00,
+          "x": 688.00,
+          "y": 576.00,
+          "z": 26000.00
+        },
+        {
+          "config": "{\"name\":\"6ec73e2338b28b190956\",\"layouts\":[{\"id\":0,\"position\":{\"x\":1024,\"y\":80,\"z\":12000,\"width\":160,\"height\":96,\"tabOrder\":12000}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"Measure Table.Attrition Rate\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"m\",\"Entity\":\"Measure Table\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Attrition Rate\"},\"Name\":\"Measure Table.Attrition Rate\",\"NativeReferenceName\":\"Attrition Rate\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Attrition Rate\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"objects\":{\"labels\":[{\"properties\":{\"color\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}},\"fontSize\":{\"expr\":{\"Literal\":{\"Value\":\"40D\"}}},\"bold\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}},\"fontFamily\":{\"expr\":{\"Literal\":{\"Value\":\"'''Arial Black'''\"}}}}}],\"categoryLabels\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"0D\"}}}}}],\"title\":[{\"properties\":{\"titleWrap\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 96.00,
+          "width": 160.00,
+          "x": 1024.00,
+          "y": 80.00,
+          "z": 12000.00
+        },
+        {
+          "config": "{\"name\":\"70271c7eb84cc073c240\",\"layouts\":[{\"id\":0,\"position\":{\"x\":1008,\"y\":80,\"z\":13000,\"width\":192,\"height\":48,\"tabOrder\":13000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Attrition Rate\",\"textStyle\":{\"fontFamily\":\"Arial Black\",\"fontSize\":\"14pt\",\"color\":\"#cccccc\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 48.00,
+          "width": 192.00,
+          "x": 1008.00,
+          "y": 80.00,
+          "z": 13000.00
+        },
+        {
+          "config": "{\"name\":\"711f31e33c5ba7c57308\",\"layouts\":[{\"id\":0,\"position\":{\"x\":0,\"y\":95.99999999999994,\"z\":19000,\"width\":160,\"height\":64,\"tabOrder\":22000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Associates\",\"textStyle\":{\"fontFamily\":\"Arial Black\",\"fontSize\":\"14pt\",\"color\":\"#cccccc\"}}],\"horizontalTextAlignment\":\"center\"},{\"textRuns\":[{\"value\":\"Degree\",\"textStyle\":{\"fontFamily\":\"Arial Black\",\"fontSize\":\"14pt\",\"color\":\"#cccccc\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"1597b88160221e1e2e92\"}",
+          "filters": "[]",
+          "height": 64.00,
+          "width": 160.00,
+          "x": 0.00,
+          "y": 96.00,
+          "z": 19000.00
+        },
+        {
+          "config": "{\"name\":\"744f72cd2eabca31c757\",\"layouts\":[{\"id\":0,\"position\":{\"x\":656,\"y\":416,\"z\":31000,\"width\":48,\"height\":48,\"tabOrder\":31000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'oval'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":1,\"Percent\":0.1}}}}}},\"selector\":{\"id\":\"default\"}}]}}}",
+          "filters": "[]",
+          "height": 48.00,
+          "width": 48.00,
+          "x": 656.00,
+          "y": 416.00,
+          "z": 31000.00
+        },
+        {
+          "config": "{\"name\":\"7891f6e6d3dc42b219a0\",\"layouts\":[{\"id\":0,\"position\":{\"x\":0,\"y\":0,\"z\":15000,\"width\":100,\"height\":100,\"tabOrder\":16000}}],\"singleVisualGroup\":{\"displayName\":\"Group 4\",\"groupMode\":0},\"parentGroupName\":\"f0fc1a80594a67790db4\"}",
+          "height": 100.00,
+          "width": 100.00,
+          "x": 0.00,
+          "y": 0.00,
+          "z": 15000.00
+        },
+        {
+          "config": "{\"name\":\"7a5fc930be2e07e073a1\",\"layouts\":[{\"id\":0,\"position\":{\"x\":1040,\"y\":576,\"z\":29000,\"width\":208,\"height\":64,\"tabOrder\":29000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Others\",\"textStyle\":{\"fontFamily\":\"Arial Black\",\"fontSize\":\"14pt\",\"color\":\"#cccccc\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 64.00,
+          "width": 208.00,
+          "x": 1040.00,
+          "y": 576.00,
+          "z": 29000.00
+        },
+        {
+          "config": "{\"name\":\"7c22d15edb96a035b053\",\"layouts\":[{\"id\":0,\"position\":{\"x\":48,\"y\":32,\"z\":0,\"width\":1216,\"height\":640,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'rectangleRounded'\"}}},\"rectangleRoundedCurve\":{\"expr\":{\"Literal\":{\"Value\":\"5L\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":1,\"Percent\":0.4}}}}}},\"selector\":{\"id\":\"default\"}}]}}}",
+          "filters": "[]",
+          "height": 640.00,
+          "width": 1216.00,
+          "x": 48.00,
+          "y": 32.00,
+          "z": 0.00
+        },
+        {
+          "config": "{\"name\":\"7ceb0358c47b1e0bbc1b\",\"layouts\":[{\"id\":0,\"position\":{\"x\":912,\"y\":64,\"z\":16000,\"width\":112.00000000000001,\"height\":48,\"tabOrder\":16000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'line'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":-0.2}}}}},\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"100D\"}}}},\"selector\":{\"id\":\"default\"}},{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}},{\"properties\":{\"lineColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":-0.2}}}}}},\"selector\":{\"id\":\"default\"}}]}}}",
+          "filters": "[]",
+          "height": 48.00,
+          "width": 112.00,
+          "x": 912.00,
+          "y": 64.00,
+          "z": 16000.00
+        },
+        {
+          "config": "{\"name\":\"89194e9d76c386547eab\",\"layouts\":[{\"id\":0,\"position\":{\"x\":0,\"y\":96,\"z\":20000,\"width\":144,\"height\":48,\"tabOrder\":24000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Bachelor\",\"textStyle\":{\"fontFamily\":\"Arial Black\",\"fontSize\":\"14pt\",\"color\":\"#cccccc\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"b1f792800b5b34e19d18\"}",
+          "filters": "[]",
+          "height": 48.00,
+          "width": 144.00,
+          "x": 0.00,
+          "y": 96.00,
+          "z": 20000.00
+        },
+        {
+          "config": "{\"name\":\"8b1b822b602409108711\",\"layouts\":[{\"id\":0,\"position\":{\"x\":544,\"y\":416,\"z\":30000,\"width\":48,\"height\":48,\"tabOrder\":30000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'oval'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":1,\"Percent\":0.1}}}}}},\"selector\":{\"id\":\"default\"}}]}}}",
+          "filters": "[]",
+          "height": 48.00,
+          "width": 48.00,
+          "x": 544.00,
+          "y": 416.00,
+          "z": 30000.00
+        },
+        {
+          "config": "{\"name\":\"8f38d67abe90d5900670\",\"layouts\":[{\"id\":0,\"position\":{\"x\":1088,\"y\":402.74509803921586,\"z\":41000,\"width\":80,\"height\":80,\"tabOrder\":41000}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"Measure Table.Inactive Employees\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"m\",\"Entity\":\"Measure Table\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Inactive Employees\"},\"Name\":\"Measure Table.Inactive Employees\",\"NativeReferenceName\":\"Inactive Employees\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Inactive Employees\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"objects\":{\"labels\":[{\"properties\":{\"color\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}},\"fontSize\":{\"expr\":{\"Literal\":{\"Value\":\"20D\"}}},\"bold\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}},\"fontFamily\":{\"expr\":{\"Literal\":{\"Value\":\"'''Arial Black'''\"}}}}}],\"categoryLabels\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]},\"vcObjects\":{\"title\":[{\"properties\":{\"titleWrap\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}}],\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"0D\"}}}}}]}}}",
+          "filters": "[{\"name\":\"Filterc03b0ea546947c48400d\",\"expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"HR-Employee-Attrition\"}},\"Property\":\"EducationField\"}},\"filter\":{\"Version\":2,\"From\":[{\"Name\":\"h\",\"Entity\":\"HR-Employee-Attrition\",\"Type\":0}],\"Where\":[{\"Condition\":{\"In\":{\"Expressions\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"h\"}},\"Property\":\"EducationField\"}}],\"Values\":[[{\"Literal\":{\"Value\":\"'Other'\"}}]]}}}]},\"type\":\"Categorical\",\"howCreated\":1,\"objects\":{}}]",
+          "height": 80.00,
+          "width": 80.00,
+          "x": 1088.00,
+          "y": 402.75,
+          "z": 41000.00
+        },
+        {
+          "config": "{\"name\":\"915ef0622ba6a3660475\",\"layouts\":[{\"id\":0,\"position\":{\"height\":159.99999999999994,\"width\":160,\"x\":1072,\"y\":448.00000000000006,\"z\":9000,\"tabOrder\":9000}}],\"singleVisualGroup\":{\"displayName\":\"Group 10\",\"groupMode\":0}}",
+          "height": 160.00,
+          "width": 160.00,
+          "x": 1072.00,
+          "y": 448.00,
+          "z": 9000.00
+        },
+        {
+          "config": "{\"name\":\"a39c14281d0420611cd8\",\"layouts\":[{\"id\":0,\"position\":{\"x\":752.0000000000001,\"y\":416,\"z\":32000,\"width\":48,\"height\":48,\"tabOrder\":32000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'oval'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":1,\"Percent\":0.1}}}}}},\"selector\":{\"id\":\"default\"}}]}}}",
+          "filters": "[]",
+          "height": 48.00,
+          "width": 48.00,
+          "x": 752.00,
+          "y": 416.00,
+          "z": 32000.00
+        },
+        {
+          "config": "{\"name\":\"a3b30be5a0c600728611\",\"layouts\":[{\"id\":0,\"position\":{\"x\":80,\"y\":368,\"z\":10000,\"width\":352,\"height\":48,\"tabOrder\":10000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Attrition by Employee Work Year\",\"textStyle\":{\"fontFamily\":\"Arial Black\",\"fontSize\":\"14pt\",\"color\":\"#cccccc\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 48.00,
+          "width": 352.00,
+          "x": 80.00,
+          "y": 368.00,
+          "z": 10000.00
+        },
+        {
+          "config": "{\"name\":\"a7fd648e40bbbecbde91\",\"layouts\":[{\"id\":0,\"position\":{\"x\":624,\"y\":576,\"z\":25000,\"width\":144,\"height\":64,\"tabOrder\":25000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Life\",\"textStyle\":{\"fontFamily\":\"Arial Black\",\"fontSize\":\"14pt\",\"color\":\"#cccccc\"}}],\"horizontalTextAlignment\":\"center\"},{\"textRuns\":[{\"value\":\" Science\",\"textStyle\":{\"fontFamily\":\"Arial Black\",\"fontSize\":\"14pt\",\"color\":\"#cccccc\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 64.00,
+          "width": 144.00,
+          "x": 624.00,
+          "y": 576.00,
+          "z": 25000.00
+        },
+        {
+          "config": "{\"name\":\"a9c5a690e495e9e9068b\",\"layouts\":[{\"id\":0,\"position\":{\"x\":496,\"y\":64,\"z\":14000,\"width\":736,\"height\":272,\"tabOrder\":14000}}],\"singleVisual\":{\"visualType\":\"columnChart\",\"projections\":{\"Category\":[{\"queryRef\":\"HR-Employee-Attrition.JobRole\",\"active\":true}],\"Y\":[{\"queryRef\":\"Measure Table.Inactive Employees\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"h\",\"Entity\":\"HR-Employee-Attrition\",\"Type\":0},{\"Name\":\"m\",\"Entity\":\"Measure Table\",\"Type\":0}],\"Select\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"h\"}},\"Property\":\"JobRole\"},\"Name\":\"HR-Employee-Attrition.JobRole\",\"NativeReferenceName\":\"JobRole\"},{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Inactive Employees\"},\"Name\":\"Measure Table.Inactive Employees\",\"NativeReferenceName\":\"Inactive Employees\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Inactive Employees\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"objects\":{\"categoryAxis\":[{\"properties\":{\"showAxisTitle\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"labelColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":-0.2}}}}}}}],\"valueAxis\":[{\"properties\":{\"showAxisTitle\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"labelColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":-0.2}}}}},\"gridlineShow\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"labels\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}},\"labelOrientation\":{\"expr\":{\"Literal\":{\"Value\":\"1D\"}}},\"labelPosition\":{\"expr\":{\"Literal\":{\"Value\":\"'OutsideEnd'\"}}},\"color\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}}}}],\"dataPoint\":[{\"properties\":{\"fill\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":-0.5}}}}}}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"title\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 272.00,
+          "width": 736.00,
+          "x": 496.00,
+          "y": 64.00,
+          "z": 14000.00
+        },
+        {
+          "config": "{\"name\":\"b1f792800b5b34e19d18\",\"layouts\":[{\"id\":0,\"position\":{\"height\":144,\"width\":144,\"x\":800.0000000000001,\"y\":448,\"z\":5000,\"tabOrder\":6000}}],\"singleVisualGroup\":{\"displayName\":\"Group 8\",\"groupMode\":0}}",
+          "height": 144.00,
+          "width": 144.00,
+          "x": 800.00,
+          "y": 448.00,
+          "z": 5000.00
+        },
+        {
+          "config": "{\"name\":\"b804e1356bb2db35cc2d\",\"layouts\":[{\"id\":0,\"position\":{\"x\":160,\"y\":224.00000000000003,\"z\":8000,\"width\":192,\"height\":48,\"tabOrder\":7000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Total Employees\",\"textStyle\":{\"fontFamily\":\"Arial Black\",\"fontSize\":\"14pt\",\"color\":\"#cccccc\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 48.00,
+          "width": 192.00,
+          "x": 160.00,
+          "y": 224.00,
+          "z": 8000.00
+        },
+        {
+          "config": "{\"name\":\"b9186139e8a454271555\",\"layouts\":[{\"id\":0,\"position\":{\"height\":48.00000000000006,\"width\":144,\"x\":496,\"y\":544,\"z\":1000,\"tabOrder\":1000}}],\"singleVisualGroup\":{\"displayName\":\"Group 6\",\"groupMode\":0}}",
+          "height": 48.00,
+          "width": 144.00,
+          "x": 496.00,
+          "y": 544.00,
+          "z": 1000.00
+        },
+        {
+          "config": "{\"name\":\"b93740241e0875079b25\",\"layouts\":[{\"id\":0,\"position\":{\"x\":48,\"y\":384,\"z\":42000,\"width\":432,\"height\":272,\"tabOrder\":42000}}],\"singleVisual\":{\"visualType\":\"columnChart\",\"projections\":{\"Category\":[{\"queryRef\":\"HR-Employee-Attrition.Working Years Category\",\"active\":true}],\"Y\":[{\"queryRef\":\"Measure Table.Inactive Employees\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"h\",\"Entity\":\"HR-Employee-Attrition\",\"Type\":0},{\"Name\":\"m\",\"Entity\":\"Measure Table\",\"Type\":0}],\"Select\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"h\"}},\"Property\":\"Working Years Category\"},\"Name\":\"HR-Employee-Attrition.Working Years Category\",\"NativeReferenceName\":\"Working Years Category\"},{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Inactive Employees\"},\"Name\":\"Measure Table.Inactive Employees\",\"NativeReferenceName\":\"Inactive Employees\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Inactive Employees\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"objects\":{\"categoryAxis\":[{\"properties\":{\"showAxisTitle\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"labelColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":-0.2}}}}}}}],\"valueAxis\":[{\"properties\":{\"showAxisTitle\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"labelColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":-0.2}}}}},\"gridlineShow\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"labels\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}},\"labelOrientation\":{\"expr\":{\"Literal\":{\"Value\":\"1D\"}}},\"labelPosition\":{\"expr\":{\"Literal\":{\"Value\":\"'OutsideEnd'\"}}},\"color\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}}}}],\"dataPoint\":[{\"properties\":{\"fill\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":1,\"Percent\":0.1}}}}}}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"title\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 272.00,
+          "width": 432.00,
+          "x": 48.00,
+          "y": 384.00,
+          "z": 42000.00
+        },
+        {
+          "config": "{\"name\":\"bc346f5d39ad10b66c0e\",\"layouts\":[{\"id\":0,\"position\":{\"x\":0,\"y\":95.99999999999994,\"z\":21000,\"width\":128,\"height\":64,\"tabOrder\":26000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Master\",\"textStyle\":{\"fontFamily\":\"Arial Black\",\"fontSize\":\"14pt\",\"color\":\"#cccccc\"}}],\"horizontalTextAlignment\":\"center\"},{\"textRuns\":[{\"value\":\"Degree\",\"textStyle\":{\"fontFamily\":\"Arial Black\",\"fontSize\":\"14pt\",\"color\":\"#cccccc\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"f0fc1a80594a67790db4\"}",
+          "filters": "[]",
+          "height": 64.00,
+          "width": 128.00,
+          "x": 0.00,
+          "y": 96.00,
+          "z": 21000.00
+        },
+        {
+          "config": "{\"name\":\"bce66eae0b5097a40e90\",\"layouts\":[{\"id\":0,\"position\":{\"x\":0,\"y\":0,\"z\":0,\"width\":48,\"height\":48,\"tabOrder\":3000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'oval'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}}},\"selector\":{\"id\":\"default\"}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"glow\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"ee4f59ca92b017031a55\"}",
+          "filters": "[]",
+          "height": 48.00,
+          "width": 48.00,
+          "x": 0.00,
+          "y": 0.00,
+          "z": 0.00
+        },
+        {
+          "config": "{\"name\":\"bf36cc219337bd00b030\",\"layouts\":[{\"id\":0,\"position\":{\"x\":656,\"y\":352,\"z\":43000,\"width\":384,\"height\":64,\"tabOrder\":43000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Attrition By Employee Education\",\"textStyle\":{\"fontFamily\":\"Arial Black\",\"fontSize\":\"14pt\",\"color\":\"#cccccc\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 64.00,
+          "width": 384.00,
+          "x": 656.00,
+          "y": 352.00,
+          "z": 43000.00
+        },
+        {
+          "config": "{\"name\":\"c629a7ab6b023a217b04\",\"layouts\":[{\"id\":0,\"position\":{\"x\":32,\"y\":0,\"z\":16000,\"width\":100,\"height\":100,\"tabOrder\":17000}}],\"singleVisualGroup\":{\"displayName\":\"Group 5\",\"groupMode\":0},\"parentGroupName\":\"915ef0622ba6a3660475\"}",
+          "height": 100.00,
+          "width": 100.00,
+          "x": 32.00,
+          "y": 0.00,
+          "z": 16000.00
+        },
+        {
+          "config": "{\"name\":\"c97987a3958501482018\",\"layouts\":[{\"id\":0,\"position\":{\"x\":0,\"y\":0,\"z\":12000,\"width\":100,\"height\":100,\"tabOrder\":18000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'oval'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":1,\"Percent\":0.2}}}}}},\"selector\":{\"id\":\"default\"}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"c629a7ab6b023a217b04\"}",
+          "filters": "[]",
+          "height": 100.00,
+          "width": 100.00,
+          "x": 0.00,
+          "y": 0.00,
+          "z": 12000.00
+        },
+        {
+          "config": "{\"name\":\"cace2633cc9199eaaa06\",\"layouts\":[{\"id\":0,\"position\":{\"x\":864,\"y\":464,\"z\":21000,\"width\":80,\"height\":80,\"tabOrder\":21000}}],\"singleVisual\":{\"visualType\":\"image\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"imageUrl\":{\"expr\":{\"ResourcePackageItem\":{\"PackageName\":\"RegisteredResources\",\"PackageType\":1,\"ItemName\":\"hr12070024354530573.png\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 80.00,
+          "width": 80.00,
+          "x": 864.00,
+          "y": 464.00,
+          "z": 21000.00
+        },
+        {
+          "config": "{\"name\":\"d143741c6aa8366d7a4e\",\"layouts\":[{\"id\":0,\"position\":{\"x\":1104,\"y\":416,\"z\":35000,\"width\":48,\"height\":48,\"tabOrder\":35000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'oval'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":1,\"Percent\":0.1}}}}}},\"selector\":{\"id\":\"default\"}}]}}}",
+          "filters": "[]",
+          "height": 48.00,
+          "width": 48.00,
+          "x": 1104.00,
+          "y": 416.00,
+          "z": 35000.00
+        },
+        {
+          "config": "{\"name\":\"d83b2a6106676a0399c5\",\"layouts\":[{\"id\":0,\"position\":{\"x\":15.999999999999886,\"y\":0,\"z\":17000,\"width\":96,\"height\":96,\"tabOrder\":8000}}],\"singleVisualGroup\":{\"displayName\":\"Group 1\",\"groupMode\":0},\"parentGroupName\":\"b1f792800b5b34e19d18\"}",
+          "height": 96.00,
+          "width": 96.00,
+          "x": 16.00,
+          "y": 0.00,
+          "z": 17000.00
+        },
+        {
+          "config": "{\"name\":\"d975e28702b49880de98\",\"layouts\":[{\"id\":0,\"position\":{\"x\":112.00000000000001,\"y\":256,\"z\":6000,\"width\":288,\"height\":96,\"tabOrder\":5000}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"Measure Table.Total Employees\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"m\",\"Entity\":\"Measure Table\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Total Employees\"},\"Name\":\"Measure Table.Total Employees\",\"NativeReferenceName\":\"Total Employees\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Total Employees\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"objects\":{\"labels\":[{\"properties\":{\"color\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}},\"fontFamily\":{\"expr\":{\"Literal\":{\"Value\":\"'''Arial Black'''\"}}},\"fontSize\":{\"expr\":{\"Literal\":{\"Value\":\"60D\"}}},\"bold\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}}],\"categoryLabels\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 96.00,
+          "width": 288.00,
+          "x": 112.00,
+          "y": 256.00,
+          "z": 6000.00
+        },
+        {
+          "config": "{\"name\":\"db2e3e6692b360cd377e\",\"layouts\":[{\"id\":0,\"position\":{\"height\":144,\"width\":368,\"x\":64,\"y\":48,\"z\":4000,\"tabOrder\":4000}}],\"singleVisualGroup\":{\"displayName\":\"Title\",\"groupMode\":0}}",
+          "height": 144.00,
+          "width": 368.00,
+          "x": 64.00,
+          "y": 48.00,
+          "z": 4000.00
+        },
+        {
+          "config": "{\"name\":\"e40c3b93ea1855e28801\",\"layouts\":[{\"id\":0,\"position\":{\"x\":976,\"y\":402.74509803921586,\"z\":40000,\"width\":80,\"height\":80,\"tabOrder\":40000}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"Measure Table.Inactive Employees\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"m\",\"Entity\":\"Measure Table\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Inactive Employees\"},\"Name\":\"Measure Table.Inactive Employees\",\"NativeReferenceName\":\"Inactive Employees\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Inactive Employees\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"objects\":{\"labels\":[{\"properties\":{\"color\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}},\"fontSize\":{\"expr\":{\"Literal\":{\"Value\":\"20D\"}}},\"bold\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}},\"fontFamily\":{\"expr\":{\"Literal\":{\"Value\":\"'''Arial Black'''\"}}}}}],\"categoryLabels\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]},\"vcObjects\":{\"title\":[{\"properties\":{\"titleWrap\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}}],\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"0D\"}}}}}]}}}",
+          "filters": "[{\"name\":\"Filterc03b0ea546947c48400d\",\"expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"HR-Employee-Attrition\"}},\"Property\":\"EducationField\"}},\"filter\":{\"Version\":2,\"From\":[{\"Name\":\"h\",\"Entity\":\"HR-Employee-Attrition\",\"Type\":0}],\"Where\":[{\"Condition\":{\"In\":{\"Expressions\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"h\"}},\"Property\":\"EducationField\"}}],\"Values\":[[{\"Literal\":{\"Value\":\"'Technical Degree'\"}}]]}}}]},\"type\":\"Categorical\",\"howCreated\":1,\"objects\":{}}]",
+          "height": 80.00,
+          "width": 80.00,
+          "x": 976.00,
+          "y": 402.75,
+          "z": 40000.00
+        },
+        {
+          "config": "{\"name\":\"e5ce409d1b372a6450a6\",\"layouts\":[{\"id\":0,\"position\":{\"x\":0,\"y\":0,\"z\":11000,\"width\":100,\"height\":100,\"tabOrder\":16000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'oval'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":1,\"Percent\":0.2}}}}}},\"selector\":{\"id\":\"default\"}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]},\"vcObjects\":{\"title\":[{\"properties\":{\"titleWrap\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}}],\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"0D\"}}}}}],\"general\":[{\"properties\":{\"keepLayerOrder\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}}],\"visualHeader\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"7891f6e6d3dc42b219a0\"}",
+          "filters": "[]",
+          "height": 100.00,
+          "width": 100.00,
+          "x": 0.00,
+          "y": 0.00,
+          "z": 11000.00
+        },
+        {
+          "config": "{\"name\":\"eaee1bb877b46cc234b8\",\"layouts\":[{\"id\":0,\"position\":{\"x\":0,\"y\":0,\"z\":10000,\"width\":100,\"height\":100,\"tabOrder\":14000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'oval'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":1,\"Percent\":0.2}}}}}},\"selector\":{\"id\":\"default\"}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]},\"vcObjects\":{\"title\":[{\"properties\":{\"titleWrap\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}}],\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"0D\"}}}}}],\"general\":[{\"properties\":{\"keepLayerOrder\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}}],\"visualHeader\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"3bac06a53c4751b2c557\"}",
+          "filters": "[]",
+          "height": 100.00,
+          "width": 100.00,
+          "x": 0.00,
+          "y": 0.00,
+          "z": 10000.00
+        },
+        {
+          "config": "{\"name\":\"ee4f59ca92b017031a55\",\"layouts\":[{\"id\":0,\"position\":{\"x\":0,\"y\":16,\"z\":1000,\"width\":48,\"height\":48,\"tabOrder\":2000}}],\"singleVisualGroup\":{\"displayName\":\"Logo\",\"groupMode\":0},\"parentGroupName\":\"db2e3e6692b360cd377e\"}",
+          "height": 48.00,
+          "width": 48.00,
+          "x": 0.00,
+          "y": 16.00,
+          "z": 1000.00
+        },
+        {
+          "config": "{\"name\":\"f0fc1a80594a67790db4\",\"layouts\":[{\"id\":0,\"position\":{\"height\":159.99999999999994,\"width\":128,\"x\":960,\"y\":448.00000000000006,\"z\":7000,\"tabOrder\":8000}}],\"singleVisualGroup\":{\"displayName\":\"Group 9\",\"groupMode\":0}}",
+          "height": 160.00,
+          "width": 128.00,
+          "x": 960.00,
+          "y": 448.00,
+          "z": 7000.00
+        },
+        {
+          "config": "{\"name\":\"f1281c10d010c732bc0d\",\"layouts\":[{\"id\":0,\"position\":{\"x\":1024,\"y\":352,\"z\":44000,\"width\":112.00000000000001,\"height\":48,\"tabOrder\":44000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'line'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":-0.2}}}}},\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"100D\"}}}},\"selector\":{\"id\":\"default\"}},{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}},{\"properties\":{\"lineColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":-0.2}}}}}},\"selector\":{\"id\":\"default\"}}]}}}",
+          "filters": "[]",
+          "height": 48.00,
+          "width": 112.00,
+          "x": 1024.00,
+          "y": 352.00,
+          "z": 44000.00
+        },
+        {
+          "config": "{\"name\":\"fc7404eab4642c90cd7d\",\"layouts\":[{\"id\":0,\"position\":{\"x\":0,\"y\":0,\"z\":1000,\"width\":48,\"height\":48,\"tabOrder\":4000}}],\"singleVisual\":{\"visualType\":\"image\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"imageUrl\":{\"expr\":{\"ResourcePackageItem\":{\"PackageName\":\"RegisteredResources\",\"PackageType\":1,\"ItemName\":\"icons8-three-people-486545926821812535.png\"}}}}}]}},\"parentGroupName\":\"ee4f59ca92b017031a55\"}",
+          "filters": "[]",
+          "height": 48.00,
+          "width": 48.00,
+          "x": 0.00,
+          "y": 0.00,
+          "z": 1000.00
+        }
+      ],
+      "width": 1280.00
+    },
+    {
+      "config": "{\"objects\":{\"background\":[{\"properties\":{\"image\":{\"image\":{\"name\":{\"expr\":{\"Literal\":{\"Value\":\"'pbi background.jpg'\"}}},\"url\":{\"expr\":{\"ResourcePackageItem\":{\"PackageName\":\"RegisteredResources\",\"PackageType\":1,\"ItemName\":\"pbi_background4524074723590732.jpg\"}}},\"scaling\":{\"expr\":{\"Literal\":{\"Value\":\"'Normal'\"}}}}},\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"0D\"}}}}}]}}",
+      "displayName": "Emp. Satisfaction Attrition",
+      "displayOption": 1,
+      "filters": "[]",
+      "height": 720.00,
+      "name": "ReportSectiond0ac89d66c0678abd570",
+      "visualContainers": [
+        {
+          "config": "{\"name\":\"04485cf2e80650887b3e\",\"layouts\":[{\"id\":0,\"position\":{\"x\":736,\"y\":624,\"z\":18000,\"width\":80,\"height\":32,\"tabOrder\":18000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Sales\",\"textStyle\":{\"fontFamily\":\"Arial\",\"fontSize\":\"14pt\",\"color\":\"#cccccc\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 32.00,
+          "width": 80.00,
+          "x": 736.00,
+          "y": 624.00,
+          "z": 18000.00
+        },
+        {
+          "config": "{\"name\":\"0603660ba740e8976b8a\",\"layouts\":[{\"id\":0,\"position\":{\"x\":928,\"y\":432,\"z\":24000,\"width\":64,\"height\":32,\"tabOrder\":24000}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"Measure Table.% male attrition\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"m\",\"Entity\":\"Measure Table\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"% male attrition\"},\"Name\":\"Measure Table.% male attrition\",\"NativeReferenceName\":\"% male attrition\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"% male attrition\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"objects\":{\"labels\":[{\"properties\":{\"color\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}},\"fontSize\":{\"expr\":{\"Literal\":{\"Value\":\"14D\"}}},\"bold\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}},\"fontFamily\":{\"expr\":{\"Literal\":{\"Value\":\"'''Arial Black'''\"}}}}}],\"categoryLabels\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"0D\"}}}}}],\"title\":[{\"properties\":{\"titleWrap\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 32.00,
+          "width": 64.00,
+          "x": 928.00,
+          "y": 432.00,
+          "z": 24000.00
+        },
+        {
+          "config": "{\"name\":\"0837a6d9d6be1b50994a\",\"layouts\":[{\"id\":0,\"position\":{\"x\":64,\"y\":64,\"z\":4000,\"width\":288,\"height\":80,\"tabOrder\":7000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Dashboard\",\"textStyle\":{\"fontWeight\":\"bold\",\"fontFamily\":\"Arial Black\",\"fontSize\":\"32pt\",\"color\":\"#000000\"}}]}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"51c9bcd6b8ecb818bb44\"}",
+          "filters": "[]",
+          "height": 80.00,
+          "width": 288.00,
+          "x": 64.00,
+          "y": 64.00,
+          "z": 4000.00
+        },
+        {
+          "config": "{\"name\":\"0ef8816cc7be43e0e552\",\"layouts\":[{\"id\":0,\"position\":{\"x\":32,\"y\":400.00000000000006,\"z\":8000,\"width\":448.00000000000006,\"height\":272,\"tabOrder\":8000}}],\"singleVisual\":{\"visualType\":\"donutChart\",\"projections\":{\"Category\":[{\"queryRef\":\"HR-Employee-Attrition.Distance Category\",\"active\":true}],\"Y\":[{\"queryRef\":\"Measure Table.Total Attrition\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"h\",\"Entity\":\"HR-Employee-Attrition\",\"Type\":0},{\"Name\":\"m\",\"Entity\":\"Measure Table\",\"Type\":0}],\"Select\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"h\"}},\"Property\":\"Distance Category\"},\"Name\":\"HR-Employee-Attrition.Distance Category\",\"NativeReferenceName\":\"Distance Category\"},{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Total Attrition\"},\"Name\":\"Measure Table.Total Attrition\",\"NativeReferenceName\":\"Total Attrition\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Total Attrition\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"objects\":{\"legend\":[{\"properties\":{\"showTitle\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"position\":{\"expr\":{\"Literal\":{\"Value\":\"'BottomCenter'\"}}},\"fontFamily\":{\"expr\":{\"Literal\":{\"Value\":\"'Arial'\"}}},\"labelColor\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#ffffff'\"}}}}}}}],\"labels\":[{\"properties\":{\"color\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#ffffff'\"}}}}}},\"selector\":{\"data\":[{\"dataViewWildcard\":{\"matchingOption\":1}}]}}],\"dataPoint\":[{\"properties\":{\"fill\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#349136'\"}}}}}},\"selector\":{\"data\":[{\"scopeId\":{\"Comparison\":{\"ComparisonKind\":0,\"Left\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"HR-Employee-Attrition\"}},\"Property\":\"Distance Category\"}},\"Right\":{\"Literal\":{\"Value\":\"'Nearby'\"}}}}}]}},{\"properties\":{\"fill\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#B57438'\"}}}}}},\"selector\":{\"data\":[{\"scopeId\":{\"Comparison\":{\"ComparisonKind\":0,\"Left\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"HR-Employee-Attrition\"}},\"Property\":\"Distance Category\"}},\"Right\":{\"Literal\":{\"Value\":\"'Far'\"}}}}}]}},{\"properties\":{\"fill\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#F6021E'\"}}}}}},\"selector\":{\"data\":[{\"scopeId\":{\"Comparison\":{\"ComparisonKind\":0,\"Left\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"HR-Employee-Attrition\"}},\"Property\":\"Distance Category\"}},\"Right\":{\"Literal\":{\"Value\":\"'Very Far'\"}}}}}]}}]},\"vcObjects\":{\"title\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"visualTooltip\":[{\"properties\":{\"section\":{\"expr\":{\"Literal\":{\"Value\":\"'ReportSectionf54f57d28349a5863419'\"}}},\"type\":{\"expr\":{\"Literal\":{\"Value\":\"'Default'\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 272.00,
+          "width": 448.00,
+          "x": 32.00,
+          "y": 400.00,
+          "z": 8000.00
+        },
+        {
+          "config": "{\"name\":\"1a2773df605a0ab4b4a7\",\"layouts\":[{\"id\":0,\"position\":{\"x\":496,\"y\":448.00000000000006,\"z\":19000,\"width\":192,\"height\":48,\"tabOrder\":19000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Attrition\",\"textStyle\":{\"fontFamily\":\"Arial Black\",\"fontSize\":\"14pt\",\"color\":\"#cccccc\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 48.00,
+          "width": 192.00,
+          "x": 496.00,
+          "y": 448.00,
+          "z": 19000.00
+        },
+        {
+          "config": "{\"name\":\"208a0a531aec10243b4d\",\"layouts\":[{\"id\":0,\"position\":{\"x\":864,\"y\":512,\"z\":22000,\"width\":192,\"height\":128,\"tabOrder\":22000}}],\"singleVisual\":{\"visualType\":\"donutChart\",\"projections\":{\"Category\":[{\"queryRef\":\"HR-Employee-Attrition.Gender\",\"active\":true}],\"Y\":[{\"queryRef\":\"Measure Table.Total Attrition\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"h\",\"Entity\":\"HR-Employee-Attrition\",\"Type\":0},{\"Name\":\"m\",\"Entity\":\"Measure Table\",\"Type\":0}],\"Select\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"h\"}},\"Property\":\"Gender\"},\"Name\":\"HR-Employee-Attrition.Gender\",\"NativeReferenceName\":\"Gender\"},{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Total Attrition\"},\"Name\":\"Measure Table.Total Attrition\",\"NativeReferenceName\":\"Total Attrition\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Total Attrition\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"objects\":{\"legend\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"labels\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"dataPoint\":[{\"properties\":{\"fill\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#F6021E'\"}}}}}},\"selector\":{\"data\":[{\"scopeId\":{\"Comparison\":{\"ComparisonKind\":0,\"Left\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"HR-Employee-Attrition\"}},\"Property\":\"Gender\"}},\"Right\":{\"Literal\":{\"Value\":\"'Female'\"}}}}}]}},{\"properties\":{\"fill\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":1,\"Percent\":0.2}}}}}},\"selector\":{\"data\":[{\"scopeId\":{\"Comparison\":{\"ComparisonKind\":0,\"Left\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"HR-Employee-Attrition\"}},\"Property\":\"Gender\"}},\"Right\":{\"Literal\":{\"Value\":\"'Male'\"}}}}}]}}]},\"vcObjects\":{\"title\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 128.00,
+          "width": 192.00,
+          "x": 864.00,
+          "y": 512.00,
+          "z": 22000.00
+        },
+        {
+          "config": "{\"name\":\"273d34a666dbdc856b87\",\"layouts\":[{\"id\":0,\"position\":{\"x\":496,\"y\":64,\"z\":1000,\"width\":736,\"height\":304,\"tabOrder\":1000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'rectangleRounded'\"}}},\"rectangleRoundedCurve\":{\"expr\":{\"Literal\":{\"Value\":\"5L\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":1,\"Percent\":0.1}}}}}},\"selector\":{\"id\":\"default\"}}]}}}",
+          "filters": "[]",
+          "height": 304.00,
+          "width": 736.00,
+          "x": 496.00,
+          "y": 64.00,
+          "z": 1000.00
+        },
+        {
+          "config": "{\"name\":\"2b7c307a63900415ddee\",\"layouts\":[{\"id\":0,\"position\":{\"x\":672,\"y\":416,\"z\":13000,\"width\":160,\"height\":96,\"tabOrder\":14000}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"Measure Table.Attrition Rate\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"m\",\"Entity\":\"Measure Table\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Attrition Rate\"},\"Name\":\"Measure Table.Attrition Rate\",\"NativeReferenceName\":\"Attrition Rate\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Attrition Rate\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"objects\":{\"labels\":[{\"properties\":{\"color\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}},\"fontSize\":{\"expr\":{\"Literal\":{\"Value\":\"40D\"}}},\"bold\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}},\"fontFamily\":{\"expr\":{\"Literal\":{\"Value\":\"'''Arial Black'''\"}}}}}],\"categoryLabels\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"0D\"}}}}}],\"title\":[{\"properties\":{\"titleWrap\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 96.00,
+          "width": 160.00,
+          "x": 672.00,
+          "y": 416.00,
+          "z": 13000.00
+        },
+        {
+          "config": "{\"name\":\"3853d43a35cbd0d26688\",\"layouts\":[{\"id\":0,\"position\":{\"x\":688,\"y\":480,\"z\":21000,\"width\":144,\"height\":48,\"tabOrder\":21000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'line'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":-0.2}}}}},\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"100D\"}}}},\"selector\":{\"id\":\"default\"}},{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}},{\"properties\":{\"lineColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":-0.2}}}}}},\"selector\":{\"id\":\"default\"}}]}}}",
+          "filters": "[]",
+          "height": 48.00,
+          "width": 144.00,
+          "x": 688.00,
+          "y": 480.00,
+          "z": 21000.00
+        },
+        {
+          "config": "{\"name\":\"394647133761d751d7a2\",\"layouts\":[{\"id\":0,\"position\":{\"x\":144,\"y\":32,\"z\":19000,\"width\":64,\"height\":48,\"tabOrder\":25000}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"Measure Table.Research & Development Attrition\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"m\",\"Entity\":\"Measure Table\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Research & Development Attrition\"},\"Name\":\"Measure Table.Research & Development Attrition\",\"NativeReferenceName\":\"Research & Development Attrition\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Research & Development Attrition\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"objects\":{\"labels\":[{\"properties\":{\"color\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}},\"fontSize\":{\"expr\":{\"Literal\":{\"Value\":\"12D\"}}},\"bold\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}},\"fontFamily\":{\"expr\":{\"Literal\":{\"Value\":\"'''Arial Black'''\"}}}}}],\"categoryLabels\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"0D\"}}}}}],\"title\":[{\"properties\":{\"titleWrap\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}}]}},\"parentGroupName\":\"bb9150e74e807a051593\"}",
+          "filters": "[]",
+          "height": 48.00,
+          "width": 64.00,
+          "x": 144.00,
+          "y": 32.00,
+          "z": 19000.00
+        },
+        {
+          "config": "{\"name\":\"4697dc5d6c884aec8be1\",\"layouts\":[{\"id\":0,\"position\":{\"x\":640,\"y\":624,\"z\":17000,\"width\":64,\"height\":48,\"tabOrder\":17000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"R&D\",\"textStyle\":{\"fontFamily\":\"Arial\",\"fontSize\":\"14pt\",\"color\":\"#cccccc\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 48.00,
+          "width": 64.00,
+          "x": 640.00,
+          "y": 624.00,
+          "z": 17000.00
+        },
+        {
+          "config": "{\"name\":\"4b3f526ad00a6002962c\",\"layouts\":[{\"id\":0,\"position\":{\"x\":544,\"y\":624,\"z\":15000,\"width\":48,\"height\":32,\"tabOrder\":16000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"HR\",\"textStyle\":{\"fontFamily\":\"Arial\",\"fontSize\":\"14pt\",\"color\":\"#cccccc\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 32.00,
+          "width": 48.00,
+          "x": 544.00,
+          "y": 624.00,
+          "z": 15000.00
+        },
+        {
+          "config": "{\"name\":\"4e1bb5c0073b64b1c028\",\"layouts\":[{\"id\":0,\"position\":{\"x\":160,\"y\":224.00000000000003,\"z\":7000,\"width\":192,\"height\":48,\"tabOrder\":7000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Total Employees\",\"textStyle\":{\"fontFamily\":\"Arial Black\",\"fontSize\":\"14pt\",\"color\":\"#cccccc\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 48.00,
+          "width": 192.00,
+          "x": 160.00,
+          "y": 224.00,
+          "z": 7000.00
+        },
+        {
+          "config": "{\"name\":\"4e855009dc309d5b7646\",\"layouts\":[{\"id\":0,\"position\":{\"x\":864,\"y\":384,\"z\":23000,\"width\":192,\"height\":128,\"tabOrder\":23000}}],\"singleVisual\":{\"visualType\":\"donutChart\",\"projections\":{\"Category\":[{\"queryRef\":\"HR-Employee-Attrition.Gender\",\"active\":true}],\"Y\":[{\"queryRef\":\"Measure Table.Total Attrition\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"h\",\"Entity\":\"HR-Employee-Attrition\",\"Type\":0},{\"Name\":\"m\",\"Entity\":\"Measure Table\",\"Type\":0}],\"Select\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"h\"}},\"Property\":\"Gender\"},\"Name\":\"HR-Employee-Attrition.Gender\",\"NativeReferenceName\":\"Gender\"},{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Total Attrition\"},\"Name\":\"Measure Table.Total Attrition\",\"NativeReferenceName\":\"Total Attrition\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Total Attrition\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"objects\":{\"legend\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"labels\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"dataPoint\":[{\"properties\":{\"fill\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#B57438'\"}}}}}},\"selector\":{\"data\":[{\"scopeId\":{\"Comparison\":{\"ComparisonKind\":0,\"Left\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"HR-Employee-Attrition\"}},\"Property\":\"Gender\"}},\"Right\":{\"Literal\":{\"Value\":\"'Male'\"}}}}}]}},{\"properties\":{\"fill\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#333333'\"}}}}}},\"selector\":{\"data\":[{\"scopeId\":{\"Comparison\":{\"ComparisonKind\":0,\"Left\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"HR-Employee-Attrition\"}},\"Property\":\"Gender\"}},\"Right\":{\"Literal\":{\"Value\":\"'Female'\"}}}}}]}}]},\"vcObjects\":{\"title\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 128.00,
+          "width": 192.00,
+          "x": 864.00,
+          "y": 384.00,
+          "z": 23000.00
+        },
+        {
+          "config": "{\"name\":\"5025b33063719335b6c1\",\"layouts\":[{\"id\":0,\"position\":{\"x\":224,\"y\":0,\"z\":17000,\"width\":128,\"height\":112,\"tabOrder\":21000}}],\"singleVisual\":{\"visualType\":\"donutChart\",\"projections\":{\"Y\":[{\"queryRef\":\"Measure Table.Sales Attrition\"},{\"queryRef\":\"Measure Table.Remain Sales\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"m\",\"Entity\":\"Measure Table\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Sales Attrition\"},\"Name\":\"Measure Table.Sales Attrition\",\"NativeReferenceName\":\"Sales Attrition\"},{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Remain Sales\"},\"Name\":\"Measure Table.Remain Sales\",\"NativeReferenceName\":\"Remain Sales\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Sales Attrition\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"objects\":{\"legend\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"labels\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"dataPoint\":[{\"properties\":{\"fill\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#B57438'\"}}}}}},\"selector\":{\"metadata\":\"Measure Table.Sales Attrition\"}},{\"properties\":{\"fill\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":1,\"Percent\":0.2}}}}}},\"selector\":{\"metadata\":\"Measure Table.Remain Sales\"}}]},\"vcObjects\":{\"title\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"bb9150e74e807a051593\"}",
+          "filters": "[]",
+          "height": 112.00,
+          "width": 128.00,
+          "x": 224.00,
+          "y": 0.00,
+          "z": 17000.00
+        },
+        {
+          "config": "{\"name\":\"51c9bcd6b8ecb818bb44\",\"layouts\":[{\"id\":0,\"position\":{\"height\":144,\"width\":368,\"x\":64,\"y\":48,\"z\":4000,\"tabOrder\":3000}}],\"singleVisualGroup\":{\"displayName\":\"Title\",\"groupMode\":0}}",
+          "height": 144.00,
+          "width": 368.00,
+          "x": 64.00,
+          "y": 48.00,
+          "z": 4000.00
+        },
+        {
+          "config": "{\"name\":\"53c155dadb1a200400d4\",\"layouts\":[{\"id\":0,\"position\":{\"x\":32,\"y\":32,\"z\":18000,\"width\":64,\"height\":48,\"tabOrder\":23000}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"Measure Table.HR Department Attrition\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"m\",\"Entity\":\"Measure Table\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"HR Department Attrition\"},\"Name\":\"Measure Table.HR Department Attrition\",\"NativeReferenceName\":\"HR Department Attrition\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"HR Department Attrition\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"objects\":{\"labels\":[{\"properties\":{\"color\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}},\"fontSize\":{\"expr\":{\"Literal\":{\"Value\":\"12D\"}}},\"bold\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}},\"fontFamily\":{\"expr\":{\"Literal\":{\"Value\":\"'''Arial Black'''\"}}}}}],\"categoryLabels\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"0D\"}}}}}],\"title\":[{\"properties\":{\"titleWrap\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}}]}},\"parentGroupName\":\"bb9150e74e807a051593\"}",
+          "filters": "[]",
+          "height": 48.00,
+          "width": 64.00,
+          "x": 32.00,
+          "y": 32.00,
+          "z": 18000.00
+        },
+        {
+          "config": "{\"name\":\"6081d362a0a9a8d0d938\",\"layouts\":[{\"id\":0,\"position\":{\"x\":0,\"y\":0,\"z\":0,\"width\":48,\"height\":48,\"tabOrder\":1000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'oval'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}}},\"selector\":{\"id\":\"default\"}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"glow\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"f6e66a0059042924063c\"}",
+          "filters": "[]",
+          "height": 48.00,
+          "width": 48.00,
+          "x": 0.00,
+          "y": 0.00,
+          "z": 0.00
+        },
+        {
+          "config": "{\"name\":\"6b766d7781c464cbbe8c\",\"layouts\":[{\"id\":0,\"position\":{\"x\":496,\"y\":80,\"z\":11000,\"width\":320,\"height\":48,\"tabOrder\":11000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Attrition By Working Years\",\"textStyle\":{\"fontFamily\":\"Arial Black\",\"fontSize\":\"14pt\",\"color\":\"#cccccc\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 48.00,
+          "width": 320.00,
+          "x": 496.00,
+          "y": 80.00,
+          "z": 11000.00
+        },
+        {
+          "config": "{\"name\":\"74627bd5c36a955030a8\",\"layouts\":[{\"id\":0,\"position\":{\"x\":1056,\"y\":528,\"z\":29000,\"width\":160,\"height\":96,\"tabOrder\":29000}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"Measure Table.Total Attrition\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"m\",\"Entity\":\"Measure Table\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Total Attrition\"},\"Name\":\"Measure Table.Total Attrition\",\"NativeReferenceName\":\"Total Attrition\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Total Attrition\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"objects\":{\"labels\":[{\"properties\":{\"color\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}},\"fontSize\":{\"expr\":{\"Literal\":{\"Value\":\"40D\"}}},\"bold\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}},\"fontFamily\":{\"expr\":{\"Literal\":{\"Value\":\"'''Arial Black'''\"}}}}}],\"categoryLabels\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"0D\"}}}}}],\"title\":[{\"properties\":{\"titleWrap\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}}]}}}",
+          "filters": "[{\"name\":\"Filter3f8ba8b694bd8a08b3e2\",\"expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"HR-Employee-Attrition\"}},\"Property\":\"Gender\"}},\"filter\":{\"Version\":2,\"From\":[{\"Name\":\"h\",\"Entity\":\"HR-Employee-Attrition\",\"Type\":0}],\"Where\":[{\"Condition\":{\"In\":{\"Expressions\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"h\"}},\"Property\":\"Gender\"}}],\"Values\":[[{\"Literal\":{\"Value\":\"'Female'\"}}]]}}}]},\"type\":\"Categorical\",\"howCreated\":1,\"objects\":{}}]",
+          "height": 96.00,
+          "width": 160.00,
+          "x": 1056.00,
+          "y": 528.00,
+          "z": 29000.00
+        },
+        {
+          "config": "{\"name\":\"754f6723129065903e09\",\"layouts\":[{\"id\":0,\"position\":{\"x\":0,\"y\":0,\"z\":15000,\"width\":128,\"height\":112.00000000000001,\"tabOrder\":18000}}],\"singleVisual\":{\"visualType\":\"donutChart\",\"projections\":{\"Y\":[{\"queryRef\":\"Measure Table.HR Department\"},{\"queryRef\":\"Measure Table.Remain HR\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"m\",\"Entity\":\"Measure Table\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"HR Department Attrition\"},\"Name\":\"Measure Table.HR Department\",\"NativeReferenceName\":\"HR Department\"},{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Remain HR\"},\"Name\":\"Measure Table.Remain HR\",\"NativeReferenceName\":\"Remain HR\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"HR Department Attrition\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"objects\":{\"legend\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"labels\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"dataPoint\":[{\"properties\":{\"fill\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":1,\"Percent\":0.1}}}}}},\"selector\":{\"metadata\":\"Measure Table.Remain R&D\"}},{\"properties\":{\"fill\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":1,\"Percent\":0.2}}}}}},\"selector\":{\"metadata\":\"Measure Table.Remain HR\"}},{\"properties\":{\"fill\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#349136'\"}}}}}},\"selector\":{\"metadata\":\"Measure Table.HR Department\"}}]},\"vcObjects\":{\"title\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"titleWrap\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}}],\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"0D\"}}}}}]}},\"parentGroupName\":\"bb9150e74e807a051593\"}",
+          "filters": "[]",
+          "height": 112.00,
+          "width": 128.00,
+          "x": 0.00,
+          "y": 0.00,
+          "z": 15000.00
+        },
+        {
+          "config": "{\"name\":\"7c296bb5a4a63b58c96d\",\"layouts\":[{\"id\":0,\"position\":{\"x\":496,\"y\":384,\"z\":3000,\"width\":352,\"height\":272,\"tabOrder\":4000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'rectangleRounded'\"}}},\"rectangleRoundedCurve\":{\"expr\":{\"Literal\":{\"Value\":\"5L\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":1,\"Percent\":0.1}}}}}},\"selector\":{\"id\":\"default\"}}]}}}",
+          "filters": "[]",
+          "height": 272.00,
+          "width": 352.00,
+          "x": 496.00,
+          "y": 384.00,
+          "z": 3000.00
+        },
+        {
+          "config": "{\"name\":\"7e81747830479c1c3c38\",\"layouts\":[{\"id\":0,\"position\":{\"x\":64,\"y\":0,\"z\":3000,\"width\":304,\"height\":80,\"tabOrder\":6000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"HR Attrition\",\"textStyle\":{\"fontWeight\":\"bold\",\"fontFamily\":\"Arial Black\",\"fontSize\":\"32pt\",\"color\":\"#000000\"}},{\"value\":\" \",\"textStyle\":{\"fontWeight\":\"bold\",\"fontFamily\":\"Arial Black\",\"fontSize\":\"32pt\"}}]}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"51c9bcd6b8ecb818bb44\"}",
+          "filters": "[]",
+          "height": 80.00,
+          "width": 304.00,
+          "x": 64.00,
+          "y": 0.00,
+          "z": 3000.00
+        },
+        {
+          "config": "{\"name\":\"85f2bc139c60dc89cde0\",\"layouts\":[{\"id\":0,\"position\":{\"x\":1024,\"y\":400.00000000000006,\"z\":26000,\"width\":192,\"height\":48,\"tabOrder\":26000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Male Attrition\",\"textStyle\":{\"fontFamily\":\"Arial Black\",\"fontSize\":\"14pt\",\"color\":\"#cccccc\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 48.00,
+          "width": 192.00,
+          "x": 1024.00,
+          "y": 400.00,
+          "z": 26000.00
+        },
+        {
+          "config": "{\"name\":\"92f4cb9f0a85b3130b77\",\"layouts\":[{\"id\":0,\"position\":{\"x\":880,\"y\":96,\"z\":10000,\"width\":336,\"height\":272,\"tabOrder\":10000}}],\"singleVisual\":{\"visualType\":\"columnChart\",\"projections\":{\"Y\":[{\"queryRef\":\"Measure Table.Total Attrition\"}],\"Category\":[{\"queryRef\":\"HR-Employee-Attrition.Job Satisfaction Status\",\"active\":true}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"m\",\"Entity\":\"Measure Table\",\"Type\":0},{\"Name\":\"h\",\"Entity\":\"HR-Employee-Attrition\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Total Attrition\"},\"Name\":\"Measure Table.Total Attrition\",\"NativeReferenceName\":\"Total Attrition\"},{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"h\"}},\"Property\":\"Job Satisfaction Status\"},\"Name\":\"HR-Employee-Attrition.Job Satisfaction Status\",\"NativeReferenceName\":\"Job Satisfaction Status\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Total Attrition\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"objects\":{\"categoryAxis\":[{\"properties\":{\"showAxisTitle\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"labelColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":-0.2}}}}}}}],\"valueAxis\":[{\"properties\":{\"showAxisTitle\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"labelColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":-0.2}}}}},\"gridlineShow\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"labels\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}},\"labelOrientation\":{\"expr\":{\"Literal\":{\"Value\":\"1D\"}}},\"labelPosition\":{\"expr\":{\"Literal\":{\"Value\":\"'InsideEnd'\"}}}}}],\"dataPoint\":[{\"properties\":{\"fill\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":-0.5}}}}}}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"title\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 272.00,
+          "width": 336.00,
+          "x": 880.00,
+          "y": 96.00,
+          "z": 10000.00
+        },
+        {
+          "config": "{\"name\":\"92f7e107801b65a3d3b4\",\"layouts\":[{\"id\":0,\"position\":{\"x\":256.0000000000001,\"y\":32,\"z\":20000,\"width\":64,\"height\":48,\"tabOrder\":27000}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"Measure Table.Sales Attrition\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"m\",\"Entity\":\"Measure Table\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Sales Attrition\"},\"Name\":\"Measure Table.Sales Attrition\",\"NativeReferenceName\":\"Sales Attrition\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Sales Attrition\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"objects\":{\"labels\":[{\"properties\":{\"color\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}},\"fontSize\":{\"expr\":{\"Literal\":{\"Value\":\"12D\"}}},\"bold\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}},\"fontFamily\":{\"expr\":{\"Literal\":{\"Value\":\"'''Arial Black'''\"}}}}}],\"categoryLabels\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"0D\"}}}}}],\"title\":[{\"properties\":{\"titleWrap\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}}]}},\"parentGroupName\":\"bb9150e74e807a051593\"}",
+          "filters": "[]",
+          "height": 48.00,
+          "width": 64.00,
+          "x": 256.00,
+          "y": 32.00,
+          "z": 20000.00
+        },
+        {
+          "config": "{\"name\":\"ab095a19c60612304c30\",\"layouts\":[{\"id\":0,\"position\":{\"x\":112.00000000000001,\"y\":256,\"z\":5000,\"width\":288,\"height\":96,\"tabOrder\":5000}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"Measure Table.Total Employees\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"m\",\"Entity\":\"Measure Table\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Total Employees\"},\"Name\":\"Measure Table.Total Employees\",\"NativeReferenceName\":\"Total Employees\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Total Employees\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"objects\":{\"labels\":[{\"properties\":{\"color\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}},\"fontFamily\":{\"expr\":{\"Literal\":{\"Value\":\"'''Arial Black'''\"}}},\"fontSize\":{\"expr\":{\"Literal\":{\"Value\":\"60D\"}}},\"bold\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}}],\"categoryLabels\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 96.00,
+          "width": 288.00,
+          "x": 112.00,
+          "y": 256.00,
+          "z": 5000.00
+        },
+        {
+          "config": "{\"name\":\"aee3e5d9c1e0b2000478\",\"layouts\":[{\"id\":0,\"position\":{\"x\":512,\"y\":96,\"z\":6000,\"width\":352,\"height\":256,\"tabOrder\":6000}}],\"singleVisual\":{\"visualType\":\"barChart\",\"projections\":{\"Y\":[{\"queryRef\":\"Measure Table.Total Attrition\"}],\"Category\":[{\"queryRef\":\"HR-Employee-Attrition.Working Years Category\",\"active\":true}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"m\",\"Entity\":\"Measure Table\",\"Type\":0},{\"Name\":\"h\",\"Entity\":\"HR-Employee-Attrition\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Total Attrition\"},\"Name\":\"Measure Table.Total Attrition\",\"NativeReferenceName\":\"Total Attrition\"},{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"h\"}},\"Property\":\"Working Years Category\"},\"Name\":\"HR-Employee-Attrition.Working Years Category\",\"NativeReferenceName\":\"Working Years Category\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Total Attrition\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"objects\":{\"dataPoint\":[{\"properties\":{\"fill\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":-0.5}}}}}}}],\"valueAxis\":[{\"properties\":{\"labelColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":-0.2}}}}},\"bold\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}},\"showAxisTitle\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"gridlineShow\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"categoryAxis\":[{\"properties\":{\"labelColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":-0.2}}}}},\"bold\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}},\"showAxisTitle\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"labels\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}},\"labelPosition\":{\"expr\":{\"Literal\":{\"Value\":\"'Auto'\"}}},\"color\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":-0.2}}}}}}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"title\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"border\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"color\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":1,\"Percent\":0.4}}}}}}}]}}}",
+          "filters": "[]",
+          "height": 256.00,
+          "width": 352.00,
+          "x": 512.00,
+          "y": 96.00,
+          "z": 6000.00
+        },
+        {
+          "config": "{\"name\":\"b19978c99d703623c679\",\"layouts\":[{\"id\":0,\"position\":{\"x\":880,\"y\":384,\"z\":2000,\"width\":352,\"height\":272,\"tabOrder\":2000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'rectangleRounded'\"}}},\"rectangleRoundedCurve\":{\"expr\":{\"Literal\":{\"Value\":\"5L\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":1,\"Percent\":0.1}}}}}},\"selector\":{\"id\":\"default\"}}]}}}",
+          "filters": "[]",
+          "height": 272.00,
+          "width": 352.00,
+          "x": 880.00,
+          "y": 384.00,
+          "z": 2000.00
+        },
+        {
+          "config": "{\"name\":\"b58a6175287c4c01e71a\",\"layouts\":[{\"id\":0,\"position\":{\"x\":656,\"y\":400.00000000000006,\"z\":14000,\"width\":192,\"height\":48,\"tabOrder\":15000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Attrition Rate\",\"textStyle\":{\"fontFamily\":\"Arial Black\",\"fontSize\":\"14pt\",\"color\":\"#cccccc\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 48.00,
+          "width": 192.00,
+          "x": 656.00,
+          "y": 400.00,
+          "z": 14000.00
+        },
+        {
+          "config": "{\"name\":\"bb9150e74e807a051593\",\"layouts\":[{\"id\":0,\"position\":{\"x\":496,\"y\":512,\"z\":16000,\"width\":352,\"height\":112.00000000000001,\"tabOrder\":13000}}],\"singleVisualGroup\":{\"displayName\":\"Group 1\",\"groupMode\":0}}",
+          "height": 112.00,
+          "width": 352.00,
+          "x": 496.00,
+          "y": 512.00,
+          "z": 16000.00
+        },
+        {
+          "config": "{\"name\":\"bbf2011f1348575ad907\",\"layouts\":[{\"id\":0,\"position\":{\"x\":1040,\"y\":416,\"z\":28000,\"width\":160,\"height\":96,\"tabOrder\":28000}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"Measure Table.Total Attrition\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"m\",\"Entity\":\"Measure Table\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Total Attrition\"},\"Name\":\"Measure Table.Total Attrition\",\"NativeReferenceName\":\"Total Attrition\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Total Attrition\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"objects\":{\"labels\":[{\"properties\":{\"color\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}},\"fontSize\":{\"expr\":{\"Literal\":{\"Value\":\"40D\"}}},\"bold\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}},\"fontFamily\":{\"expr\":{\"Literal\":{\"Value\":\"'''Arial Black'''\"}}}}}],\"categoryLabels\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"0D\"}}}}}],\"title\":[{\"properties\":{\"titleWrap\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}}]}}}",
+          "filters": "[{\"name\":\"Filter3f8ba8b694bd8a08b3e2\",\"expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"HR-Employee-Attrition\"}},\"Property\":\"Gender\"}},\"filter\":{\"Version\":2,\"From\":[{\"Name\":\"h\",\"Entity\":\"HR-Employee-Attrition\",\"Type\":0}],\"Where\":[{\"Condition\":{\"In\":{\"Expressions\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"h\"}},\"Property\":\"Gender\"}}],\"Values\":[[{\"Literal\":{\"Value\":\"'Male'\"}}]]}}}]},\"type\":\"Categorical\",\"howCreated\":1,\"objects\":{}}]",
+          "height": 96.00,
+          "width": 160.00,
+          "x": 1040.00,
+          "y": 416.00,
+          "z": 28000.00
+        },
+        {
+          "config": "{\"name\":\"be8a3635a92cbec5caec\",\"layouts\":[{\"id\":0,\"position\":{\"x\":1024,\"y\":512,\"z\":27000,\"width\":192,\"height\":48,\"tabOrder\":27000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Female Attrition\",\"textStyle\":{\"fontFamily\":\"Arial Black\",\"fontSize\":\"14pt\",\"color\":\"#cccccc\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 48.00,
+          "width": 192.00,
+          "x": 1024.00,
+          "y": 512.00,
+          "z": 27000.00
+        },
+        {
+          "config": "{\"name\":\"c45c13eb09009b690905\",\"layouts\":[{\"id\":0,\"position\":{\"x\":496,\"y\":480.00000000000006,\"z\":20000,\"width\":192,\"height\":48,\"tabOrder\":20000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"by Department\",\"textStyle\":{\"fontFamily\":\"Arial Black\",\"fontSize\":\"12pt\",\"color\":\"#cccccc\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 48.00,
+          "width": 192.00,
+          "x": 496.00,
+          "y": 480.00,
+          "z": 20000.00
+        },
+        {
+          "config": "{\"name\":\"c4a1598bea967c08dc40\",\"layouts\":[{\"id\":0,\"position\":{\"x\":928,\"y\":560,\"z\":25000,\"width\":64,\"height\":32,\"tabOrder\":25000}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"Measure Table.% female attrition\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"m\",\"Entity\":\"Measure Table\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"% female attrition\"},\"Name\":\"Measure Table.% female attrition\",\"NativeReferenceName\":\"% female attrition\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"% female attrition\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"objects\":{\"labels\":[{\"properties\":{\"color\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}},\"fontSize\":{\"expr\":{\"Literal\":{\"Value\":\"14D\"}}},\"bold\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}},\"fontFamily\":{\"expr\":{\"Literal\":{\"Value\":\"'''Arial Black'''\"}}}}}],\"categoryLabels\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"0D\"}}}}}],\"title\":[{\"properties\":{\"titleWrap\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 32.00,
+          "width": 64.00,
+          "x": 928.00,
+          "y": 560.00,
+          "z": 25000.00
+        },
+        {
+          "config": "{\"name\":\"c72a552d13a3e6e440b5\",\"layouts\":[{\"id\":0,\"position\":{\"x\":0,\"y\":0,\"z\":1000,\"width\":48,\"height\":48,\"tabOrder\":3000}}],\"singleVisual\":{\"visualType\":\"image\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"imageUrl\":{\"expr\":{\"ResourcePackageItem\":{\"PackageName\":\"RegisteredResources\",\"PackageType\":1,\"ItemName\":\"icons8-three-people-486545926821812535.png\"}}}}}]}},\"parentGroupName\":\"f6e66a0059042924063c\"}",
+          "filters": "[]",
+          "height": 48.00,
+          "width": 48.00,
+          "x": 0.00,
+          "y": 0.00,
+          "z": 1000.00
+        },
+        {
+          "config": "{\"name\":\"d90aa17926191e165b79\",\"layouts\":[{\"id\":0,\"position\":{\"x\":112.00000000000001,\"y\":368,\"z\":9000,\"width\":320,\"height\":48,\"tabOrder\":9000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Attrition by distance to work\",\"textStyle\":{\"fontFamily\":\"Arial Black\",\"fontSize\":\"14pt\",\"color\":\"#cccccc\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 48.00,
+          "width": 320.00,
+          "x": 112.00,
+          "y": 368.00,
+          "z": 9000.00
+        },
+        {
+          "config": "{\"name\":\"dd721f99ad0455b740c8\",\"layouts\":[{\"id\":0,\"position\":{\"x\":832,\"y\":80,\"z\":12000,\"width\":416,\"height\":48,\"tabOrder\":12000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Attrition By Employee Satisfaction\",\"textStyle\":{\"fontFamily\":\"Arial Black\",\"fontSize\":\"14pt\",\"color\":\"#cccccc\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 48.00,
+          "width": 416.00,
+          "x": 832.00,
+          "y": 80.00,
+          "z": 12000.00
+        },
+        {
+          "config": "{\"name\":\"e9b4ed3a70a7464c863d\",\"layouts\":[{\"id\":0,\"position\":{\"x\":32,\"y\":32,\"z\":0,\"width\":1216,\"height\":640,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'rectangleRounded'\"}}},\"rectangleRoundedCurve\":{\"expr\":{\"Literal\":{\"Value\":\"5L\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":1,\"Percent\":0.4}}}}}},\"selector\":{\"id\":\"default\"}}]}}}",
+          "filters": "[]",
+          "height": 640.00,
+          "width": 1216.00,
+          "x": 32.00,
+          "y": 32.00,
+          "z": 0.00
+        },
+        {
+          "config": "{\"name\":\"f481f58aca92190017dc\",\"layouts\":[{\"id\":0,\"position\":{\"x\":112,\"y\":0,\"z\":16000,\"width\":128,\"height\":112.00000000000001,\"tabOrder\":19000}}],\"singleVisual\":{\"visualType\":\"donutChart\",\"projections\":{\"Y\":[{\"queryRef\":\"Measure Table.Research & Development Attrition\"},{\"queryRef\":\"Measure Table.Remain R&D\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"m\",\"Entity\":\"Measure Table\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Research & Development Attrition\"},\"Name\":\"Measure Table.Research & Development Attrition\",\"NativeReferenceName\":\"Research & Development Attrition\"},{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Remain R&D\"},\"Name\":\"Measure Table.Remain R&D\",\"NativeReferenceName\":\"Remain R&D\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Research & Development Attrition\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"objects\":{\"legend\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"labels\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"dataPoint\":[{\"properties\":{\"fill\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":1,\"Percent\":0.2}}}}}},\"selector\":{\"metadata\":\"Measure Table.Remain R&D\"}},{\"properties\":{\"fill\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#F6021E'\"}}}}}},\"selector\":{\"metadata\":\"Measure Table.Research & Development Attrition\"}}]},\"vcObjects\":{\"title\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}},\"parentGroupName\":\"bb9150e74e807a051593\"}",
+          "filters": "[]",
+          "height": 112.00,
+          "width": 128.00,
+          "x": 112.00,
+          "y": 0.00,
+          "z": 16000.00
+        },
+        {
+          "config": "{\"name\":\"f6e66a0059042924063c\",\"layouts\":[{\"id\":0,\"position\":{\"x\":0,\"y\":16,\"z\":1000,\"width\":48,\"height\":48,\"tabOrder\":2000}}],\"singleVisualGroup\":{\"displayName\":\"Logo\",\"groupMode\":0},\"parentGroupName\":\"51c9bcd6b8ecb818bb44\"}",
+          "height": 48.00,
+          "width": 48.00,
+          "x": 0.00,
+          "y": 16.00,
+          "z": 1000.00
+        }
+      ],
+      "width": 1280.00
+    },
+    {
+      "config": "{\"objects\":{\"background\":[{\"properties\":{\"image\":{\"image\":{\"name\":{\"expr\":{\"Literal\":{\"Value\":\"'pbi background.jpg'\"}}},\"url\":{\"expr\":{\"ResourcePackageItem\":{\"PackageName\":\"RegisteredResources\",\"PackageType\":1,\"ItemName\":\"pbi_background4524074723590732.jpg\"}}},\"scaling\":{\"expr\":{\"Literal\":{\"Value\":\"'Normal'\"}}}}},\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"0D\"}}}}}]}}",
+      "displayName": "Attrition by Gender",
+      "displayOption": 1,
+      "filters": "[]",
+      "height": 720.00,
+      "name": "ReportSectionfbe5b42d86508e7e09be",
+      "ordinal": 2,
+      "visualContainers": [
+        {
+          "config": "{\"name\":\"060d251862e8a5a9b850\",\"layouts\":[{\"id\":0,\"position\":{\"x\":320,\"y\":400.00000000000006,\"z\":5000,\"width\":192,\"height\":48,\"tabOrder\":5000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Total Employees\",\"textStyle\":{\"fontFamily\":\"Arial Black\",\"fontSize\":\"14pt\",\"color\":\"#cccccc\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 48.00,
+          "width": 192.00,
+          "x": 320.00,
+          "y": 400.00,
+          "z": 5000.00
+        },
+        {
+          "config": "{\"name\":\"0b376710ea0aa09c6105\",\"layouts\":[{\"id\":0,\"position\":{\"x\":32,\"y\":32,\"z\":0,\"width\":1216,\"height\":640,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'rectangleRounded'\"}}},\"rectangleRoundedCurve\":{\"expr\":{\"Literal\":{\"Value\":\"5L\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":1,\"Percent\":0.4}}}}}},\"selector\":{\"id\":\"default\"}}]}}}",
+          "filters": "[]",
+          "height": 640.00,
+          "width": 1216.00,
+          "x": 32.00,
+          "y": 32.00,
+          "z": 0.00
+        },
+        {
+          "config": "{\"name\":\"28c61f50927c90b5bad3\",\"layouts\":[{\"id\":0,\"position\":{\"x\":640,\"y\":80,\"z\":10000,\"width\":112.00000000000001,\"height\":48,\"tabOrder\":10000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'line'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":-0.2}}}}},\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"100D\"}}}},\"selector\":{\"id\":\"default\"}},{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}},{\"properties\":{\"lineColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":-0.2}}}}}},\"selector\":{\"id\":\"default\"}}]}}}",
+          "filters": "[]",
+          "height": 48.00,
+          "width": 112.00,
+          "x": 640.00,
+          "y": 80.00,
+          "z": 10000.00
+        },
+        {
+          "config": "{\"name\":\"2dd67204be049d10d95d\",\"layouts\":[{\"id\":0,\"position\":{\"x\":32,\"y\":128,\"z\":7000,\"width\":208,\"height\":384,\"tabOrder\":7000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'rectangleRounded'\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}},\"angle\":{\"expr\":{\"Literal\":{\"Value\":\"270L\"}}}}}],\"text\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}},{\"properties\":{\"text\":{\"expr\":{\"Literal\":{\"Value\":\"'HR Attrition Dashboard'\"}}},\"fontFamily\":{\"expr\":{\"Literal\":{\"Value\":\"'''Arial Black'''\"}}},\"fontSize\":{\"expr\":{\"Literal\":{\"Value\":\"32D\"}}}},\"selector\":{\"id\":\"default\"}}],\"fill\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"outline\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]},\"vcObjects\":{\"title\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"text\":{\"expr\":{\"Literal\":{\"Value\":\"'hi'\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 384.00,
+          "width": 208.00,
+          "x": 32.00,
+          "y": 128.00,
+          "z": 7000.00
+        },
+        {
+          "config": "{\"name\":\"38c7c888dd048a12110c\",\"layouts\":[{\"id\":0,\"position\":{\"x\":240,\"y\":112.00000000000001,\"z\":9000,\"width\":992,\"height\":256,\"tabOrder\":9000}}],\"singleVisual\":{\"visualType\":\"clusteredColumnChart\",\"projections\":{\"Category\":[{\"queryRef\":\"HR-Employee-Attrition.Age Bucket\",\"active\":true}],\"Y\":[{\"queryRef\":\"Measure Table.Inactive Employees\"}],\"Series\":[{\"queryRef\":\"HR-Employee-Attrition.Gender\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"m\",\"Entity\":\"Measure Table\",\"Type\":0},{\"Name\":\"h\",\"Entity\":\"HR-Employee-Attrition\",\"Type\":0}],\"Select\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"h\"}},\"Property\":\"Age Bucket\"},\"Name\":\"HR-Employee-Attrition.Age Bucket\",\"NativeReferenceName\":\"Age Bucket\"},{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Inactive Employees\"},\"Name\":\"Measure Table.Inactive Employees\",\"NativeReferenceName\":\"Inactive Employees\"},{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"h\"}},\"Property\":\"Gender\"},\"Name\":\"HR-Employee-Attrition.Gender\",\"NativeReferenceName\":\"Gender\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Inactive Employees\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"objects\":{\"categoryAxis\":[{\"properties\":{\"showAxisTitle\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"labelColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}}}}],\"valueAxis\":[{\"properties\":{\"showAxisTitle\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"labelColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":-0.2}}}}},\"gridlineShow\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"labels\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}},\"labelOrientation\":{\"expr\":{\"Literal\":{\"Value\":\"1D\"}}},\"labelPosition\":{\"expr\":{\"Literal\":{\"Value\":\"'OutsideEnd'\"}}},\"color\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}}}}],\"dataPoint\":[{\"properties\":{\"fill\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":-0.5}}}}}}},{\"properties\":{\"fill\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#F6021E'\"}}}}}},\"selector\":{\"data\":[{\"scopeId\":{\"Comparison\":{\"ComparisonKind\":0,\"Left\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"HR-Employee-Attrition\"}},\"Property\":\"Gender\"}},\"Right\":{\"Literal\":{\"Value\":\"'Female'\"}}}}}]}},{\"properties\":{\"fill\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#B57438'\"}}}}}},\"selector\":{\"data\":[{\"scopeId\":{\"Comparison\":{\"ComparisonKind\":0,\"Left\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"HR-Employee-Attrition\"}},\"Property\":\"Gender\"}},\"Right\":{\"Literal\":{\"Value\":\"'Male'\"}}}}}]}}],\"legend\":[{\"properties\":{\"position\":{\"expr\":{\"Literal\":{\"Value\":\"'BottomCenter'\"}}},\"labelColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}},\"showTitle\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"title\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 256.00,
+          "width": 992.00,
+          "x": 240.00,
+          "y": 112.00,
+          "z": 9000.00
+        },
+        {
+          "config": "{\"name\":\"9866f92cde5e035d84ea\",\"layouts\":[{\"id\":0,\"position\":{\"x\":256,\"y\":80,\"z\":3000,\"width\":384,\"height\":48,\"tabOrder\":3000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Attrition by Age Bucket and Gender\",\"textStyle\":{\"fontFamily\":\"Arial Black\",\"fontSize\":\"14pt\",\"color\":\"#cccccc\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 48.00,
+          "width": 384.00,
+          "x": 256.00,
+          "y": 80.00,
+          "z": 3000.00
+        },
+        {
+          "config": "{\"name\":\"9d7276a24aaa60eda8ca\",\"layouts\":[{\"id\":0,\"position\":{\"x\":1056,\"y\":80,\"z\":4000,\"width\":160,\"height\":48,\"tabOrder\":4000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Attrition Rate\",\"textStyle\":{\"fontFamily\":\"Arial Black\",\"fontSize\":\"14pt\",\"color\":\"#cccccc\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 48.00,
+          "width": 160.00,
+          "x": 1056.00,
+          "y": 80.00,
+          "z": 4000.00
+        },
+        {
+          "config": "{\"name\":\"9ffe870a3918cb517acb\",\"layouts\":[{\"id\":0,\"position\":{\"x\":608,\"y\":384,\"z\":12000,\"width\":624,\"height\":272,\"tabOrder\":12000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'rectangleRounded'\"}}},\"rectangleRoundedCurve\":{\"expr\":{\"Literal\":{\"Value\":\"5L\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":1,\"Percent\":0.1}}}}}},\"selector\":{\"id\":\"default\"}}]}}}",
+          "filters": "[]",
+          "height": 272.00,
+          "width": 624.00,
+          "x": 608.00,
+          "y": 384.00,
+          "z": 12000.00
+        },
+        {
+          "config": "{\"name\":\"aa169ab62e6293a0d86b\",\"layouts\":[{\"id\":0,\"position\":{\"x\":272,\"y\":432,\"z\":6000,\"width\":288,\"height\":96,\"tabOrder\":6000}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"Measure Table.Total Employees\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"m\",\"Entity\":\"Measure Table\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Total Employees\"},\"Name\":\"Measure Table.Total Employees\",\"NativeReferenceName\":\"Total Employees\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Total Employees\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"objects\":{\"labels\":[{\"properties\":{\"color\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}},\"fontFamily\":{\"expr\":{\"Literal\":{\"Value\":\"'''Arial Black'''\"}}},\"fontSize\":{\"expr\":{\"Literal\":{\"Value\":\"60D\"}}},\"bold\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}}],\"categoryLabels\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 96.00,
+          "width": 288.00,
+          "x": 272.00,
+          "y": 432.00,
+          "z": 6000.00
+        },
+        {
+          "config": "{\"name\":\"b31ff0545108290ceb40\",\"layouts\":[{\"id\":0,\"position\":{\"x\":240,\"y\":384,\"z\":2000,\"width\":352,\"height\":272,\"tabOrder\":2000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'rectangleRounded'\"}}},\"rectangleRoundedCurve\":{\"expr\":{\"Literal\":{\"Value\":\"5L\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":1,\"Percent\":0.1}}}}}},\"selector\":{\"id\":\"default\"}}]}}}",
+          "filters": "[]",
+          "height": 272.00,
+          "width": 352.00,
+          "x": 240.00,
+          "y": 384.00,
+          "z": 2000.00
+        },
+        {
+          "config": "{\"name\":\"d1540be4eaa3190fcd39\",\"layouts\":[{\"id\":0,\"position\":{\"x\":624,\"y\":432,\"z\":13000,\"width\":592,\"height\":224,\"tabOrder\":13000}}],\"singleVisual\":{\"visualType\":\"lineChart\",\"projections\":{\"Y\":[{\"queryRef\":\"Measure Table.Inactive Employees female\"},{\"queryRef\":\"Measure Table.Inactive Employees male\"}],\"Category\":[{\"queryRef\":\"HR-Employee-Attrition.EnvironmentSatisfaction\",\"active\":true}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"m\",\"Entity\":\"Measure Table\",\"Type\":0},{\"Name\":\"h\",\"Entity\":\"HR-Employee-Attrition\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Inactive Employees female\"},\"Name\":\"Measure Table.Inactive Employees female\",\"NativeReferenceName\":\"Inactive Employees female\"},{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Inactive Employees male\"},\"Name\":\"Measure Table.Inactive Employees male\",\"NativeReferenceName\":\"Inactive Employees male\"},{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"h\"}},\"Property\":\"EnvironmentSatisfaction\"},\"Name\":\"HR-Employee-Attrition.EnvironmentSatisfaction\",\"NativeReferenceName\":\"EnvironmentSatisfaction\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Inactive Employees female\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"objects\":{\"categoryAxis\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}},\"showAxisTitle\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"axisType\":{\"expr\":{\"Literal\":{\"Value\":\"'Scalar'\"}}},\"labelColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}}}}],\"valueAxis\":[{\"properties\":{\"showAxisTitle\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"gridlineShow\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"labelColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}}}}],\"y2Axis\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"legend\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"dataPoint\":[{\"properties\":{\"fill\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#F6021E'\"}}}}}},\"selector\":{\"metadata\":\"Measure Table.Inactive Employees female\"}},{\"properties\":{\"fill\":{\"solid\":{\"color\":{\"expr\":{\"Literal\":{\"Value\":\"'#B57438'\"}}}}}},\"selector\":{\"metadata\":\"Measure Table.Inactive Employees male\"}}]},\"vcObjects\":{\"title\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 224.00,
+          "width": 592.00,
+          "x": 624.00,
+          "y": 432.00,
+          "z": 13000.00
+        },
+        {
+          "config": "{\"name\":\"e89cd78b4637d9871361\",\"layouts\":[{\"id\":0,\"position\":{\"x\":240,\"y\":528,\"z\":11000,\"width\":352,\"height\":112,\"tabOrder\":11000}}],\"singleVisual\":{\"visualType\":\"slicer\",\"projections\":{\"Values\":[{\"queryRef\":\"HR-Employee-Attrition.Gender\",\"active\":true}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"h\",\"Entity\":\"HR-Employee-Attrition\",\"Type\":0}],\"Select\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"h\"}},\"Property\":\"Gender\"},\"Name\":\"HR-Employee-Attrition.Gender\",\"NativeReferenceName\":\"Gender\"}]},\"drillFilterOtherVisuals\":true,\"objects\":{\"data\":[{\"properties\":{\"mode\":{\"expr\":{\"Literal\":{\"Value\":\"'Basic'\"}}}}}],\"general\":[{\"properties\":{\"orientation\":{\"expr\":{\"Literal\":{\"Value\":\"1D\"}}},\"outlineWeight\":{\"expr\":{\"Literal\":{\"Value\":\"10D\"}}}}}],\"header\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}],\"items\":[{\"properties\":{\"textSize\":{\"expr\":{\"Literal\":{\"Value\":\"20D\"}}},\"fontFamily\":{\"expr\":{\"Literal\":{\"Value\":\"'''Arial Black'''\"}}},\"bold\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}},\"fontColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":1,\"Percent\":0}}}}}}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 112.00,
+          "width": 352.00,
+          "x": 240.00,
+          "y": 528.00,
+          "z": 11000.00
+        },
+        {
+          "config": "{\"name\":\"f4afa43da99c27021001\",\"layouts\":[{\"id\":0,\"position\":{\"x\":1056,\"y\":96,\"z\":8000,\"width\":160,\"height\":96,\"tabOrder\":8000}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"Measure Table.Attrition Rate\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"m\",\"Entity\":\"Measure Table\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Attrition Rate\"},\"Name\":\"Measure Table.Attrition Rate\",\"NativeReferenceName\":\"Attrition Rate\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"m\"}},\"Property\":\"Attrition Rate\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"objects\":{\"labels\":[{\"properties\":{\"color\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":0,\"Percent\":0}}}}},\"fontSize\":{\"expr\":{\"Literal\":{\"Value\":\"40D\"}}},\"bold\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}},\"fontFamily\":{\"expr\":{\"Literal\":{\"Value\":\"'''Arial Black'''\"}}}}}],\"categoryLabels\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}},\"transparency\":{\"expr\":{\"Literal\":{\"Value\":\"0D\"}}}}}],\"title\":[{\"properties\":{\"titleWrap\":{\"expr\":{\"Literal\":{\"Value\":\"true\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 96.00,
+          "width": 160.00,
+          "x": 1056.00,
+          "y": 96.00,
+          "z": 8000.00
+        },
+        {
+          "config": "{\"name\":\"f82cd3de42e648adbd14\",\"layouts\":[{\"id\":0,\"position\":{\"x\":240,\"y\":64,\"z\":1000,\"width\":992,\"height\":304,\"tabOrder\":1000}}],\"singleVisual\":{\"visualType\":\"shape\",\"drillFilterOtherVisuals\":true,\"objects\":{\"shape\":[{\"properties\":{\"tileShape\":{\"expr\":{\"Literal\":{\"Value\":\"'rectangleRounded'\"}}},\"rectangleRoundedCurve\":{\"expr\":{\"Literal\":{\"Value\":\"5L\"}}}}}],\"rotation\":[{\"properties\":{\"shapeAngle\":{\"expr\":{\"Literal\":{\"Value\":\"0L\"}}}}}],\"fill\":[{\"properties\":{\"fillColor\":{\"solid\":{\"color\":{\"expr\":{\"ThemeDataColor\":{\"ColorId\":1,\"Percent\":0.1}}}}}},\"selector\":{\"id\":\"default\"}}]}}}",
+          "filters": "[]",
+          "height": 304.00,
+          "width": 992.00,
+          "x": 240.00,
+          "y": 64.00,
+          "z": 1000.00
+        },
+        {
+          "config": "{\"name\":\"fd052e249b469785cf0a\",\"layouts\":[{\"id\":0,\"position\":{\"x\":608,\"y\":384,\"z\":14000,\"width\":544,\"height\":48,\"tabOrder\":14000}}],\"singleVisual\":{\"visualType\":\"textbox\",\"drillFilterOtherVisuals\":true,\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Attrition by Environment Satisfaction and Gender\",\"textStyle\":{\"fontFamily\":\"Arial Black\",\"fontSize\":\"14pt\",\"color\":\"#cccccc\"}}],\"horizontalTextAlignment\":\"center\"}]}}]},\"vcObjects\":{\"background\":[{\"properties\":{\"show\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}}",
+          "filters": "[]",
+          "height": 48.00,
+          "width": 544.00,
+          "x": 608.00,
+          "y": 384.00,
+          "z": 14000.00
+        }
+      ],
+      "width": 1280.00
+    }
+  ]
+}
